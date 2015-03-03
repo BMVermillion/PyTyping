@@ -1,0 +1,1752 @@
+1, KeyInput, 0, 0, T, h
+1, KeyInput, 78, 78, "Th", e
+1, KeyInput, 172, 94, "The", Space
+1, KeyInput, 3885, 3713, "The ", q
+1, KeyInput, 4056, 171, "The q", u
+1, KeyInput, 4306, 250, "The qu", i
+1, KeyInput, 4540, 234, "The qui", c
+1, KeyInput, 4712, 172, "The quic", k
+1, KeyInput, 4883, 171, "The quick", Space
+1, KeyInput, 6303, 1420, "The quick ", b
+1, KeyInput, 7005, 702, "The quick b", r
+1, KeyInput, 7145, 140, "The quick br", o
+1, KeyInput, 7488, 343, "The quick bro", w
+1, KeyInput, 7629, 141, "The quick brow", n
+1, KeyInput, 7769, 140, "The quick brown", Space
+1, KeyInput, 8081, 312, "The quick brown ", f
+1, KeyInput, 8284, 203, "The quick brown f", o
+1, KeyInput, 8580, 296, "The quick brown fo", x
+1, KeyInput, 8705, 125, "The quick brown fox", Space
+1, KeyInput, 9579, 874, "The quick brown fox ", j
+1, KeyInput, 9922, 343, "The quick brown fox j", u
+1, KeyInput, 10125, 203, "The quick brown fox ju", m
+1, KeyInput, 10546, 421, "The quick brown fox jum", p
+1, KeyInput, 10764, 218, "The quick brown fox jump", s
+1, KeyInput, 10936, 172, "The quick brown fox jumps", Space
+1, KeyInput, 11888, 952, "The quick brown fox jumps ", o
+1, KeyInput, 12231, 343, "The quick brown fox jumps o", v
+1, KeyInput, 12480, 249, "The quick brown fox jumps ov", e
+1, KeyInput, 12558, 78, "The quick brown fox jumps ove", r
+1, KeyInput, 12683, 125, "The quick brown fox jumps over", Space
+1, KeyInput, 13120, 437, "The quick brown fox jumps over ", t
+1, KeyInput, 13245, 125, "The quick brown fox jumps over t", h
+1, KeyInput, 13354, 109, "The quick brown fox jumps over th", e
+1, KeyInput, 13510, 156, "The quick brown fox jumps over the", Space
+1, KeyInput, 14196, 686, "The quick brown fox jumps over the ", l
+1, KeyInput, 14368, 172, "The quick brown fox jumps over the l", a
+1, KeyInput, 15070, 702, "The quick brown fox jumps over the la", z
+1, KeyInput, 15257, 187, "The quick brown fox jumps over the laz", y
+1, KeyInput, 15304, 47, "The quick brown fox jumps over the lazy", Space
+1, KeyInput, 16053, 749, "The quick brown fox jumps over the lazy ", d
+1, KeyInput, 16458, 405, "The quick brown fox jumps over the lazy d", o
+1, KeyInput, 16599, 141, "The quick brown fox jumps over the lazy do", g
+1, KeyInput, 17472, 873, "The quick brown fox jumps over the lazy dog", .
+2, KeyInput, 0, 0, T, h
+2, KeyInput, 141, 141, "Th", e
+2, KeyInput, 219, 78, "The", r
+2, KeyInput, 359, 140, "Ther", e
+2, KeyInput, 500, 141, "There", Space
+2, KeyInput, 812, 312, "There ", w
+2, KeyInput, 968, 156, "There w", a
+2, KeyInput, 1061, 93, "There wa", s
+2, KeyInput, 1155, 94, "There was", Space
+2, KeyInput, 1295, 140, "There was ", a
+2, KeyInput, 1404, 109, "There was a", Space
+2, KeyInput, 1935, 531, "There was a ", l
+2, KeyInput, 2138, 203, "There was a l", o
+2, KeyInput, 2231, 93, "There was a lo", t
+2, KeyInput, 2309, 78, "There was a lot", Space
+2, KeyInput, 3074, 765, "There was a lot ", o
+2, KeyInput, 3198, 124, "There was a lot o", f
+2, KeyInput, 3292, 94, "There was a lot of", Space
+2, KeyInput, 4056, 764, "There was a lot of ", e
+2, KeyInput, 4212, 156, "There was a lot of e", i
+2, KeyInput, 4462, 250, "There was a lot of ei", n
+2, KeyInput, 4634, 172, "There was a lot of ein", d
+2, Delete, 4961, 327, "There was a lot of eind", d
+2, Delete, 5133, 172, "There was a lot of ein", n
+2, Delete, 5273, 140, "There was a lot of ei", i
+2, KeyInput, 6022, 749, "There was a lot of e", w
+2, KeyInput, 6209, 187, "There was a lot of ew", i
+2, KeyInput, 6303, 94, "There was a lot of ewi", n
+2, KeyInput, 6412, 109, "There was a lot of ewin", d
+2, KeyInput, 6537, 125, "There was a lot of ewind", Space
+2, KeyInput, 6740, 203, "There was a lot of ewind ", a
+2, Delete, 7145, 405, "There was a lot of ewind a", a
+2, Delete, 7332, 187, "There was a lot of ewind ", Space
+2, Delete, 7473, 141, "There was a lot of ewind", d
+2, Delete, 7613, 140, "There was a lot of ewin", n
+2, Delete, 7754, 141, "There was a lot of ewi", i
+2, Delete, 7925, 171, "There was a lot of ew", w
+2, Delete, 8159, 234, "There was a lot of e", e
+2, KeyInput, 8830, 671, "There was a lot of ", w
+2, KeyInput, 8986, 156, "There was a lot of w", i
+2, KeyInput, 9080, 94, "There was a lot of wi", n
+2, KeyInput, 9267, 187, "There was a lot of win", d
+2, KeyInput, 9938, 671, "There was a lot of wind", Space
+2, KeyInput, 10125, 187, "There was a lot of wind ", a
+2, KeyInput, 10359, 234, "There was a lot of wind a", n
+2, KeyInput, 10671, 312, "There was a lot of wind an", d
+2, KeyInput, 10780, 109, "There was a lot of wind and", Space
+2, KeyInput, 11420, 640, "There was a lot of wind and ", r
+2, KeyInput, 11576, 156, "There was a lot of wind and r", a
+2, KeyInput, 11732, 156, "There was a lot of wind and ra", i
+2, KeyInput, 12106, 374, "There was a lot of wind and rai", n
+2, KeyInput, 12246, 140, "There was a lot of wind and rain", Space
+2, KeyInput, 12855, 609, "There was a lot of wind and rain ", d
+2, KeyInput, 13042, 187, "There was a lot of wind and rain d", u
+2, KeyInput, 13151, 109, "There was a lot of wind and rain du", r
+2, KeyInput, 13307, 156, "There was a lot of wind and rain dur", i
+2, KeyInput, 13432, 125, "There was a lot of wind and rain duri", n
+2, KeyInput, 13526, 94, "There was a lot of wind and rain durin", g
+2, KeyInput, 13635, 109, "There was a lot of wind and rain during", Space
+2, KeyInput, 14306, 671, "There was a lot of wind and rain during ", t
+2, KeyInput, 14446, 140, "There was a lot of wind and rain during t", h
+2, KeyInput, 14540, 94, "There was a lot of wind and rain during th", e
+2, KeyInput, 14649, 109, "There was a lot of wind and rain during the", Space
+2, KeyInput, 14976, 327, "There was a lot of wind and rain during the ", s
+2, KeyInput, 15117, 141, "There was a lot of wind and rain during the s", t
+2, KeyInput, 15460, 343, "There was a lot of wind and rain during the st", o
+2, KeyInput, 16115, 655, "There was a lot of wind and rain during the sto", r
+2, KeyInput, 16224, 109, "There was a lot of wind and rain during the stor", m
+2, KeyInput, 16942, 718, "There was a lot of wind and rain during the storm", .
+3, KeyInput, 0, 0, J, o
+3, KeyInput, 422, 422, "Jo", h
+3, KeyInput, 609, 187, "Joh", n
+3, KeyInput, 749, 140, "John", Space
+3, KeyInput, 968, 219, "John ", a
+3, KeyInput, 1092, 124, "John a", n
+3, KeyInput, 1186, 94, "John an", d
+3, KeyInput, 1280, 94, "John and", Space
+3, KeyInput, 1763, 483, "John and ", J
+3, KeyInput, 2028, 265, "John and J", o
+3, KeyInput, 2231, 203, "John and Jo", w
+3, Delete, 2996, 765, "John and Jow", w
+3, KeyInput, 3058, 62, "John and Jo", e
+3, KeyInput, 3729, 671, "John and Joe", Space
+3, KeyInput, 4524, 795, "John and Joe ", w
+3, KeyInput, 4743, 219, "John and Joe w", e
+3, KeyInput, 4946, 203, "John and Joe we", i
+3, Delete, 5336, 390, "John and Joe wei", i
+3, KeyInput, 5991, 655, "John and Joe we", n
+3, KeyInput, 6069, 78, "John and Joe wen", t
+3, KeyInput, 6147, 78, "John and Joe went", Space
+3, KeyInput, 6896, 749, "John and Joe went ", t
+3, KeyInput, 7020, 124, "John and Joe went t", o
+3, KeyInput, 7145, 125, "John and Joe went to", Space
+3, KeyInput, 7613, 468, "John and Joe went to ", g
+3, KeyInput, 7832, 219, "John and Joe went to g", e
+3, KeyInput, 7878, 46, "John and Joe went to ge", t
+3, KeyInput, 8003, 125, "John and Joe went to get", Space
+3, KeyInput, 8643, 640, "John and Joe went to get ", c
+3, KeyInput, 8830, 187, "John and Joe went to get c", o
+3, KeyInput, 8986, 156, "John and Joe went to get co", f
+3, KeyInput, 9173, 187, "John and Joe went to get cof", f
+3, KeyInput, 9345, 172, "John and Joe went to get coff", e
+3, KeyInput, 9516, 171, "John and Joe went to get coffe", e
+3, KeyInput, 9657, 141, "John and Joe went to get coffee", Space
+3, KeyInput, 10016, 359, "John and Joe went to get coffee ", a
+3, KeyInput, 10203, 187, "John and Joe went to get coffee a", n
+3, KeyInput, 10328, 125, "John and Joe went to get coffee an", d
+3, KeyInput, 10452, 124, "John and Joe went to get coffee and", Space
+3, KeyInput, 10827, 375, "John and Joe went to get coffee and ", d
+3, KeyInput, 11030, 203, "John and Joe went to get coffee and d", o
+3, KeyInput, 11154, 124, "John and Joe went to get coffee and do", n
+3, KeyInput, 12012, 858, "John and Joe went to get coffee and don", u
+3, KeyInput, 12137, 125, "John and Joe went to get coffee and donu", t
+3, KeyInput, 12340, 203, "John and Joe went to get coffee and donut", s
+3, KeyInput, 12683, 343, "John and Joe went to get coffee and donuts", .
+4, KeyInput, 0, 0, E, x
+4, KeyInput, 265, 265, "Ex", c
+4, KeyInput, 483, 218, "Exc", u
+4, KeyInput, 624, 141, "Excu", s
+4, KeyInput, 748, 124, "Excus", r
+4, KeyInput, 748, 0, "Excusr", e
+4, Delete, 1341, 593, "Excusre", e
+4, Delete, 1747, 406, "Excusr", r
+4, KeyInput, 2293, 546, "Excus", e
+4, KeyInput, 2527, 234, "Excuse", Space
+4, KeyInput, 3042, 515, "Excuse ", m
+4, KeyInput, 3166, 124, "Excuse m", e
+4, KeyInput, 4087, 921, "Excuse me", ,
+4, KeyInput, 4196, 109, "Excuse me,", Space
+4, KeyInput, 4680, 484, "Excuse me, ", d
+4, KeyInput, 4945, 265, "Excuse me, d", o
+4, KeyInput, 5039, 94, "Excuse me, do", Space
+4, KeyInput, 5413, 374, "Excuse me, do ", y
+4, KeyInput, 5569, 156, "Excuse me, do y", o
+4, KeyInput, 5663, 94, "Excuse me, do yo", u
+4, KeyInput, 5787, 124, "Excuse me, do you", Space
+4, KeyInput, 6411, 624, "Excuse me, do you ", k
+4, KeyInput, 6521, 110, "Excuse me, do you k", m
+4, KeyInput, 6536, 15, "Excuse me, do you km", n
+4, Delete, 7067, 531, "Excuse me, do you kmn", n
+4, Delete, 7269, 202, "Excuse me, do you km", m
+4, KeyInput, 8861, 1592, "Excuse me, do you k", n
+4, KeyInput, 9219, 358, "Excuse me, do you kn", o
+4, KeyInput, 9375, 156, "Excuse me, do you kno", w
+4, KeyInput, 9485, 110, "Excuse me, do you know", Space
+4, KeyInput, 9937, 452, "Excuse me, do you know ", w
+4, KeyInput, 10155, 218, "Excuse me, do you know w", h
+4, KeyInput, 10280, 125, "Excuse me, do you know wh", w
+4, KeyInput, 10389, 109, "Excuse me, do you know whw", e
+4, Delete, 10717, 328, "Excuse me, do you know whwe", e
+4, Delete, 10904, 187, "Excuse me, do you know whw", w
+4, KeyInput, 11029, 125, "Excuse me, do you know wh", e
+4, KeyInput, 11091, 62, "Excuse me, do you know whe", r
+4, KeyInput, 11232, 141, "Excuse me, do you know wher", e
+4, KeyInput, 11341, 109, "Excuse me, do you know where", Space
+4, KeyInput, 11903, 562, "Excuse me, do you know where ", t
+4, KeyInput, 11996, 93, "Excuse me, do you know where t", h
+4, KeyInput, 12137, 141, "Excuse me, do you know where th", e
+4, KeyInput, 12293, 156, "Excuse me, do you know where the", Space
+4, KeyInput, 12885, 592, "Excuse me, do you know where the ", r
+4, KeyInput, 12979, 94, "Excuse me, do you know where the r", e
+4, KeyInput, 13213, 234, "Excuse me, do you know where the re", s
+4, KeyInput, 13338, 125, "Excuse me, do you know where the res", t
+4, KeyInput, 13650, 312, "Excuse me, do you know where the rest", r
+4, KeyInput, 13899, 249, "Excuse me, do you know where the restr", o
+4, KeyInput, 14071, 172, "Excuse me, do you know where the restro", o
+4, KeyInput, 14321, 250, "Excuse me, do you know where the restroo", m
+4, KeyInput, 14492, 171, "Excuse me, do you know where the restroom", s
+4, KeyInput, 14633, 141, "Excuse me, do you know where the restrooms", Space
+4, KeyInput, 14882, 249, "Excuse me, do you know where the restrooms ", a
+4, KeyInput, 14991, 109, "Excuse me, do you know where the restrooms a", r
+4, KeyInput, 15101, 110, "Excuse me, do you know where the restrooms ar", e
+4, KeyInput, 15241, 140, "Excuse me, do you know where the restrooms are", Space
+4, Delete, 15693, 452, "Excuse me, do you know where the restrooms are ", Space
+4, KeyInput, 16177, 484, "Excuse me, do you know where the restrooms are", ?
+5, KeyInput, 0, 0, G, o
+5, KeyInput, 125, 125, "Go", Space
+5, KeyInput, 812, 687, "Go ", l
+5, KeyInput, 999, 187, "Go l", e
+5, KeyInput, 1404, 405, "Go le", g
+5, KeyInput, 1623, 219, "Go leg", t
+5, Delete, 2262, 639, "Go legt", t
+5, Delete, 2450, 188, "Go leg", g
+5, KeyInput, 2886, 436, "Go le", f
+5, KeyInput, 3074, 188, "Go lef", t
+5, KeyInput, 3682, 608, "Go left", ,
+5, KeyInput, 3900, 218, "Go left,", Space
+5, KeyInput, 4150, 250, "Go left, ", t
+5, KeyInput, 4275, 125, "Go left, t", h
+5, KeyInput, 4384, 109, "Go left, th", e
+5, KeyInput, 4540, 156, "Go left, the", n
+5, KeyInput, 4665, 125, "Go left, then", Space
+5, KeyInput, 5226, 561, "Go left, then ", r
+5, KeyInput, 5460, 234, "Go left, then r", i
+5, KeyInput, 6006, 546, "Go left, then ri", g
+5, KeyInput, 6147, 141, "Go left, then rig", h
+5, KeyInput, 6334, 187, "Go left, then righ", t
+5, KeyInput, 6662, 328, "Go left, then right", Space
+5, Delete, 7098, 436, "Go left, then right ", Space
+5, KeyInput, 7410, 312, "Go left, then right", ,
+5, KeyInput, 7551, 141, "Go left, then right,", Space
+5, KeyInput, 8393, 842, "Go left, then right, ", r
+5, KeyInput, 8534, 141, "Go left, then right, r", i
+5, KeyInput, 8705, 171, "Go left, then right, ri", g
+5, KeyInput, 8783, 78, "Go left, then right, rig", h
+5, KeyInput, 8939, 156, "Go left, then right, righ", t
+5, KeyInput, 9251, 312, "Go left, then right, right", Space
+5, KeyInput, 9470, 219, "Go left, then right, right ", a
+5, KeyInput, 9704, 234, "Go left, then right, right a", g
+5, KeyInput, 9844, 140, "Go left, then right, right ag", a
+5, KeyInput, 9969, 125, "Go left, then right, right aga", i
+5, KeyInput, 10062, 93, "Go left, then right, right agai", n
+5, KeyInput, 10218, 156, "Go left, then right, right again", Space
+5, Delete, 10577, 359, "Go left, then right, right again ", Space
+5, KeyInput, 10936, 359, "Go left, then right, right again", ,
+5, KeyInput, 11154, 218, "Go left, then right, right again,", Space
+5, KeyInput, 11435, 281, "Go left, then right, right again, ", a
+5, KeyInput, 11654, 219, "Go left, then right, right again, a", d
+5, KeyInput, 11903, 249, "Go left, then right, right again, ad", n
+5, Delete, 12449, 546, "Go left, then right, right again, adn", n
+5, Delete, 12652, 203, "Go left, then right, right again, ad", d
+5, KeyInput, 12668, 16, "Go left, then right, right again, a", \
+5, Delete, 13307, 639, "Go left, then right, right again, a\", \
+5, KeyInput, 14259, 952, "Go left, then right, right again, a", n
+5, KeyInput, 14368, 109, "Go left, then right, right again, an", d
+5, KeyInput, 14462, 94, "Go left, then right, right again, and", Space
+5, KeyInput, 15039, 577, "Go left, then right, right again, and ", f
+5, KeyInput, 15179, 140, "Go left, then right, right again, and f", i
+5, KeyInput, 15273, 94, "Go left, then right, right again, and fi", n
+5, KeyInput, 15398, 125, "Go left, then right, right again, and fin", a
+5, KeyInput, 15585, 187, "Go left, then right, right again, and fina", k
+5, Delete, 16256, 671, "Go left, then right, right again, and finak", k
+5, KeyInput, 16521, 265, "Go left, then right, right again, and fina", l
+5, KeyInput, 17410, 889, "Go left, then right, right again, and final", y
+5, KeyInput, 17488, 78, "Go left, then right, right again, and finaly", Space
+5, KeyInput, 18128, 640, "Go left, then right, right again, and finaly ", l
+5, KeyInput, 18237, 109, "Go left, then right, right again, and finaly l", e
+5, KeyInput, 18424, 187, "Go left, then right, right again, and finaly le", f
+5, KeyInput, 19079, 655, "Go left, then right, right again, and finaly lef", t
+5, KeyInput, 19922, 843, "Go left, then right, right again, and finaly left", .
+6, KeyInput, 0, 0, D, i
+6, KeyInput, 78, 78, "Di", d
+6, KeyInput, 297, 219, "Did", Space
+6, KeyInput, 1108, 811, "Did ", M
+6, KeyInput, 1279, 171, "Did M", a
+6, KeyInput, 1841, 562, "Did Ma", r
+6, KeyInput, 2106, 265, "Did Mar", y
+6, KeyInput, 2215, 109, "Did Mary", Space
+6, KeyInput, 2715, 500, "Did Mary ", f
+6, KeyInput, 2855, 140, "Did Mary f", i
+6, KeyInput, 2949, 94, "Did Mary fi", n
+6, KeyInput, 3120, 171, "Did Mary fin", f
+6, Delete, 3526, 406, "Did Mary finf", f
+6, KeyInput, 4368, 842, "Did Mary fin", i
+6, KeyInput, 4602, 234, "Did Mary fini", s
+6, KeyInput, 4743, 141, "Did Mary finis", h
+6, KeyInput, 4930, 187, "Did Mary finish", Space
+6, KeyInput, 5585, 655, "Did Mary finish ", t
+6, KeyInput, 5694, 109, "Did Mary finish t", h
+6, KeyInput, 5835, 141, "Did Mary finish th", e
+6, KeyInput, 5913, 78, "Did Mary finish the", Space
+6, KeyInput, 6552, 639, "Did Mary finish the ", p
+6, KeyInput, 6802, 250, "Did Mary finish the p", r
+6, KeyInput, 6880, 78, "Did Mary finish the pr", o
+6, KeyInput, 7285, 405, "Did Mary finish the pro", j
+6, KeyInput, 7457, 172, "Did Mary finish the proj", e
+6, KeyInput, 7660, 203, "Did Mary finish the proje", c
+6, KeyInput, 7894, 234, "Did Mary finish the projec", t
+6, KeyInput, 8003, 109, "Did Mary finish the project", Space
+6, KeyInput, 8299, 296, "Did Mary finish the project ", l
+6, KeyInput, 8455, 156, "Did Mary finish the project l", a
+6, KeyInput, 8643, 188, "Did Mary finish the project la", t
+6, KeyInput, 8799, 156, "Did Mary finish the project lat", Space
+6, KeyInput, 9360, 561, "Did Mary finish the project lat ", n
+6, KeyInput, 9579, 219, "Did Mary finish the project lat n", o
+6, KeyInput, 9937, 358, "Did Mary finish the project lat no", g
+6, KeyInput, 10031, 94, "Did Mary finish the project lat nog", h
+6, KeyInput, 10686, 655, "Did Mary finish the project lat nogh", t
+6, Delete, 11419, 733, "Did Mary finish the project lat noght", t
+6, Delete, 11607, 188, "Did Mary finish the project lat nogh", h
+6, Delete, 11747, 140, "Did Mary finish the project lat nog", g
+6, Delete, 11934, 187, "Did Mary finish the project lat no", o
+6, Delete, 12277, 343, "Did Mary finish the project lat n", n
+6, Delete, 12465, 188, "Did Mary finish the project lat ", Space
+6, Delete, 13245, 780, "Did Mary finish the project lat", t
+6, KeyInput, 14290, 1045, "Did Mary finish the project la", s
+6, KeyInput, 14461, 171, "Did Mary finish the project las", t
+6, KeyInput, 14727, 266, "Did Mary finish the project last", Space
+6, KeyInput, 15226, 499, "Did Mary finish the project last ", n
+6, KeyInput, 15491, 265, "Did Mary finish the project last n", i
+6, KeyInput, 15756, 265, "Did Mary finish the project last ni", g
+6, KeyInput, 15819, 63, "Did Mary finish the project last nig", h
+6, KeyInput, 15959, 140, "Did Mary finish the project last nigh", t
+6, KeyInput, 16630, 671, "Did Mary finish the project last night", ?
+7, KeyInput, 0, 0, I, Space
+7, KeyInput, 280, 280, "I ", d
+7, KeyInput, 483, 203, "I d", r
+7, KeyInput, 764, 281, "I dr", o
+7, KeyInput, 1029, 265, "I dro", p
+7, KeyInput, 1201, 172, "I drop", p
+7, KeyInput, 1294, 93, "I dropp", e
+7, KeyInput, 1606, 312, "I droppe", d
+7, KeyInput, 1716, 110, "I dropped", Space
+7, KeyInput, 2574, 858, "I dropped ", m
+7, KeyInput, 2745, 171, "I dropped m", y
+7, KeyInput, 2854, 109, "I dropped my", Space
+7, KeyInput, 3276, 422, "I dropped my ", p
+7, KeyInput, 3556, 280, "I dropped my p", h
+7, KeyInput, 3775, 219, "I dropped my ph", o
+7, KeyInput, 3884, 109, "I dropped my pho", n
+7, KeyInput, 4056, 172, "I dropped my phon", e
+7, KeyInput, 4149, 93, "I dropped my phone", Space
+7, KeyInput, 4477, 328, "I dropped my phone ", o
+7, KeyInput, 4602, 125, "I dropped my phone o", n
+7, KeyInput, 4711, 109, "I dropped my phone on", Space
+7, KeyInput, 4882, 171, "I dropped my phone on ", a
+7, Delete, 5163, 281, "I dropped my phone on a", a
+7, Delete, 5366, 203, "I dropped my phone on ", Space
+7, Delete, 5522, 156, "I dropped my phone on", n
+7, Delete, 5818, 296, "I dropped my phone o", o
+7, KeyInput, 6224, 406, "I dropped my phone ", o
+7, Delete, 6645, 421, "I dropped my phone o", o
+7, KeyInput, 6895, 250, "I dropped my phone ", i
+7, KeyInput, 7004, 109, "I dropped my phone i", n
+7, KeyInput, 7144, 140, "I dropped my phone in", Space
+7, KeyInput, 7644, 500, "I dropped my phone in ", a
+7, KeyInput, 7753, 109, "I dropped my phone in a", Space
+7, KeyInput, 7971, 218, "I dropped my phone in a ", p
+7, KeyInput, 8595, 624, "I dropped my phone in a p", u
+7, KeyInput, 8736, 141, "I dropped my phone in a pu", s
+7, KeyInput, 8892, 156, "I dropped my phone in a pus", s
+7, Delete, 9438, 546, "I dropped my phone in a puss", s
+7, Delete, 9609, 171, "I dropped my phone in a pus", s
+7, KeyInput, 10420, 811, "I dropped my phone in a pu", d
+7, KeyInput, 10576, 156, "I dropped my phone in a pud", d
+7, KeyInput, 10686, 110, "I dropped my phone in a pudd", l
+7, KeyInput, 10810, 124, "I dropped my phone in a puddl", e
+7, KeyInput, 11684, 874, "I dropped my phone in a puddle", ,
+7, KeyInput, 11731, 47, "I dropped my phone in a puddle,", Space
+7, KeyInput, 12402, 671, "I dropped my phone in a puddle, ", t
+7, KeyInput, 12511, 109, "I dropped my phone in a puddle, t", h
+7, KeyInput, 12620, 109, "I dropped my phone in a puddle, th", e
+7, KeyInput, 12729, 109, "I dropped my phone in a puddle, the", n
+7, KeyInput, 12870, 141, "I dropped my phone in a puddle, then", Space
+7, KeyInput, 13306, 436, "I dropped my phone in a puddle, then ", l
+7, KeyInput, 13494, 188, "I dropped my phone in a puddle, then l", o
+7, KeyInput, 13634, 140, "I dropped my phone in a puddle, then lo", s
+7, KeyInput, 13743, 109, "I dropped my phone in a puddle, then los", t
+7, KeyInput, 13977, 234, "I dropped my phone in a puddle, then lost", Space
+7, KeyInput, 14071, 94, "I dropped my phone in a puddle, then lost ", m
+7, KeyInput, 14586, 515, "I dropped my phone in a puddle, then lost m", y
+7, KeyInput, 14726, 140, "I dropped my phone in a puddle, then lost my", Space
+7, KeyInput, 15225, 499, "I dropped my phone in a puddle, then lost my ", k
+7, KeyInput, 15381, 156, "I dropped my phone in a puddle, then lost my k", e
+7, KeyInput, 15631, 250, "I dropped my phone in a puddle, then lost my ke", y
+7, KeyInput, 15802, 171, "I dropped my phone in a puddle, then lost my key", s
+7, KeyInput, 16068, 266, "I dropped my phone in a puddle, then lost my keys", .
+8, KeyInput, 0, 0, H, e
+8, KeyInput, 858, 858, "He", y
+8, KeyInput, 1092, 234, "Hey", Space
+8, KeyInput, 1887, 795, "Hey ", S
+8, KeyInput, 2090, 203, "Hey S", u
+8, KeyInput, 2231, 141, "Hey Su", s
+8, KeyInput, 2605, 374, "Hey Sus", a
+8, KeyInput, 2901, 296, "Hey Susa", n
+8, KeyInput, 3073, 172, "Hey Susan", Space
+8, Delete, 3510, 437, "Hey Susan ", Space
+8, KeyInput, 3806, 296, "Hey Susan", ,
+8, KeyInput, 3978, 172, "Hey Susan,", Space
+8, KeyInput, 4649, 671, "Hey Susan, ", h
+8, KeyInput, 4758, 109, "Hey Susan, h", a
+8, KeyInput, 4961, 203, "Hey Susan, ha", v
+8, KeyInput, 5117, 156, "Hey Susan, hav", e
+8, KeyInput, 5210, 93, "Hey Susan, have", Space
+8, KeyInput, 5865, 655, "Hey Susan, have ", y
+8, KeyInput, 6021, 156, "Hey Susan, have y", o
+8, KeyInput, 6146, 125, "Hey Susan, have yo", u
+8, KeyInput, 6271, 125, "Hey Susan, have you", Space
+8, KeyInput, 6614, 343, "Hey Susan, have you ", s
+8, KeyInput, 6848, 234, "Hey Susan, have you s", e
+8, KeyInput, 7254, 406, "Hey Susan, have you se", e
+8, KeyInput, 7425, 171, "Hey Susan, have you see", n
+8, KeyInput, 7550, 125, "Hey Susan, have you seen", Space
+8, KeyInput, 8798, 1248, "Hey Susan, have you seen ", S
+8, KeyInput, 9235, 437, "Hey Susan, have you seen S", a
+8, KeyInput, 10187, 952, "Hey Susan, have you seen Sa", o
+8, KeyInput, 10280, 93, "Hey Susan, have you seen Sao", r
+8, Delete, 11107, 827, "Hey Susan, have you seen Saor", r
+8, KeyInput, 11684, 577, "Hey Susan, have you seen Sao", i
+8, KeyInput, 11778, 94, "Hey Susan, have you seen Saoi", r
+8, KeyInput, 12402, 624, "Hey Susan, have you seen Saoir", s
+8, KeyInput, 12527, 125, "Hey Susan, have you seen Saoirs", e
+8, KeyInput, 12917, 390, "Hey Susan, have you seen Saoirse", Space
+8, KeyInput, 13806, 889, "Hey Susan, have you seen Saoirse ", a
+8, KeyInput, 13977, 171, "Hey Susan, have you seen Saoirse a", r
+8, KeyInput, 14991, 1014, "Hey Susan, have you seen Saoirse ar", o
+8, KeyInput, 15101, 110, "Hey Susan, have you seen Saoirse aro", u
+8, KeyInput, 15569, 468, "Hey Susan, have you seen Saoirse arou", n
+8, KeyInput, 16115, 546, "Hey Susan, have you seen Saoirse aroun", d
+8, KeyInput, 16239, 124, "Hey Susan, have you seen Saoirse around", Space
+8, KeyInput, 17019, 780, "Hey Susan, have you seen Saoirse around ", r
+8, KeyInput, 17144, 125, "Hey Susan, have you seen Saoirse around r", e
+8, KeyInput, 17394, 250, "Hey Susan, have you seen Saoirse around re", c
+8, KeyInput, 17581, 187, "Hey Susan, have you seen Saoirse around rec", e
+8, KeyInput, 17753, 172, "Hey Susan, have you seen Saoirse around rece", n
+8, KeyInput, 17940, 187, "Hey Susan, have you seen Saoirse around recen", t
+8, KeyInput, 18158, 218, "Hey Susan, have you seen Saoirse around recent", l
+8, KeyInput, 18377, 219, "Hey Susan, have you seen Saoirse around recentl", y
+8, KeyInput, 19047, 670, "Hey Susan, have you seen Saoirse around recently", ?
+9, KeyInput, 0, 0, W, e
+9, KeyInput, 141, 141, "We", Space
+9, KeyInput, 765, 624, "We ", k
+9, KeyInput, 858, 93, "We k", n
+9, KeyInput, 1077, 219, "We kn", o
+9, KeyInput, 2122, 1045, "We kno", w
+9, KeyInput, 2247, 125, "We know", Space
+9, KeyInput, 2730, 483, "We know ", w
+9, KeyInput, 2917, 187, "We know w", h
+9, KeyInput, 3105, 188, "We know wh", a
+9, KeyInput, 3385, 280, "We know wha", t
+9, KeyInput, 3495, 110, "We know what", Space
+9, KeyInput, 3853, 358, "We know what ", e
+9, KeyInput, 3869, 16, "We know what e", w
+9, Delete, 5367, 1498, "We know what ew", w
+9, Delete, 5569, 202, "We know what e", e
+9, KeyInput, 5741, 172, "We know what ", w
+9, KeyInput, 5803, 62, "We know what w", e
+9, KeyInput, 5959, 156, "We know what we", Space
+9, KeyInput, 6178, 219, "We know what we ", a
+9, KeyInput, 6287, 109, "We know what we a", r
+9, KeyInput, 6568, 281, "We know what we ar", e
+9, KeyInput, 6724, 156, "We know what we are", Space
+9, Delete, 7145, 421, "We know what we are ", Space
+9, KeyInput, 7426, 281, "We know what we are", ,
+9, KeyInput, 7535, 109, "We know what we are,", Space
+9, KeyInput, 8050, 515, "We know what we are, ", b
+9, KeyInput, 8362, 312, "We know what we are, b", u
+9, KeyInput, 8502, 140, "We know what we are, bu", t
+9, KeyInput, 8596, 94, "We know what we are, but", Space
+9, KeyInput, 8830, 234, "We know what we are, but ", n
+9, Delete, 9251, 421, "We know what we are, but n", n
+9, KeyInput, 9625, 374, "We know what we are, but ", k
+9, KeyInput, 9750, 125, "We know what we are, but k", n
+9, KeyInput, 9969, 219, "We know what we are, but kn", o
+9, KeyInput, 10265, 296, "We know what we are, but kno", w
+9, KeyInput, 10374, 109, "We know what we are, but know", Space
+9, KeyInput, 10593, 219, "We know what we are, but know ", n
+9, KeyInput, 10795, 202, "We know what we are, but know n", o
+9, KeyInput, 11076, 281, "We know what we are, but know no", t
+9, KeyInput, 11154, 78, "We know what we are, but know not", Space
+9, KeyInput, 11872, 718, "We know what we are, but know not ", w
+9, KeyInput, 12293, 421, "We know what we are, but know not w", h
+9, KeyInput, 12433, 140, "We know what we are, but know not wh", a
+9, KeyInput, 12574, 141, "We know what we are, but know not wha", t
+9, KeyInput, 12808, 234, "We know what we are, but know not what", Space
+9, KeyInput, 13541, 733, "We know what we are, but know not what ", w
+9, KeyInput, 13869, 328, "We know what we are, but know not what w", e
+9, KeyInput, 13947, 78, "We know what we are, but know not what we", Space
+9, KeyInput, 14477, 530, "We know what we are, but know not what we ", m
+9, KeyInput, 14633, 156, "We know what we are, but know not what we m", a
+9, KeyInput, 14961, 328, "We know what we are, but know not what we ma", y
+9, KeyInput, 15054, 93, "We know what we are, but know not what we may", Space
+9, KeyInput, 15616, 562, "We know what we are, but know not what we may ", b
+9, KeyInput, 15912, 296, "We know what we are, but know not what we may b", e
+9, KeyInput, 16209, 297, "We know what we are, but know not what we may be", .
+10, KeyInput, 0, 0, W, h
+10, KeyInput, 109, 109, "Wh", a
+10, KeyInput, 328, 219, "Wha", t
+10, KeyInput, 437, 109, "What", Space
+10, KeyInput, 843, 406, "What ", r
+10, KeyInput, 983, 140, "What r", e
+10, KeyInput, 1233, 250, "What re", s
+10, KeyInput, 1357, 124, "What res", t
+10, KeyInput, 2387, 1030, "What rest", a
+10, KeyInput, 2527, 140, "What resta", u
+10, KeyInput, 3261, 734, "What restau", r
+10, KeyInput, 3495, 234, "What restaur", a
+10, KeyInput, 3604, 109, "What restaura", u
+10, KeyInput, 3807, 203, "What restaurau", n
+10, KeyInput, 3853, 46, "What restauraun", b
+10, Delete, 4431, 578, "What restauraunb", b
+10, KeyInput, 4446, 15, "What restauraun", =
+10, Delete, 4649, 203, "What restauraun=", =
+10, Delete, 4852, 203, "What restauraun", n
+10, Delete, 5023, 171, "What restaurau", u
+10, Delete, 5320, 297, "What restaura", a
+10, KeyInput, 6131, 811, "What restaur", a
+10, KeyInput, 6256, 125, "What restaura", n
+10, KeyInput, 6427, 171, "What restauran", t
+10, KeyInput, 6771, 344, "What restaurant", Space
+10, KeyInput, 7192, 421, "What restaurant ", d
+10, KeyInput, 7348, 156, "What restaurant d", o
+10, KeyInput, 7457, 109, "What restaurant do", Space
+10, KeyInput, 8409, 952, "What restaurant do ", y
+10, KeyInput, 8580, 171, "What restaurant do y", o
+10, KeyInput, 8674, 94, "What restaurant do yo", u
+10, KeyInput, 8783, 109, "What restaurant do you", Space
+10, KeyInput, 9750, 967, "What restaurant do you ", w
+10, KeyInput, 9969, 219, "What restaurant do you w", a
+10, KeyInput, 10125, 156, "What restaurant do you wa", n
+10, KeyInput, 10671, 546, "What restaurant do you wan", t
+10, Delete, 11919, 1248, "What restaurant do you want", t
+10, Delete, 12090, 171, "What restaurant do you wan", n
+10, Delete, 12246, 156, "What restaurant do you wa", a
+10, KeyInput, 12792, 546, "What restaurant do you w", h
+10, KeyInput, 12933, 141, "What restaurant do you wh", a
+10, KeyInput, 13104, 171, "What restaurant do you wha", n
+10, KeyInput, 13385, 281, "What restaurant do you whan", t
+10, KeyInput, 13510, 125, "What restaurant do you whant", Space
+10, KeyInput, 14524, 1014, "What restaurant do you whant ", t
+10, KeyInput, 14711, 187, "What restaurant do you whant t", o
+10, KeyInput, 14836, 125, "What restaurant do you whant to", Space
+10, KeyInput, 15585, 749, "What restaurant do you whant to ", g
+10, KeyInput, 15709, 124, "What restaurant do you whant to g", o
+10, KeyInput, 15975, 266, "What restaurant do you whant to go", Space
+10, KeyInput, 17004, 1029, "What restaurant do you whant to go ", r
+10, KeyInput, 17160, 156, "What restaurant do you whant to go r", o
+10, Delete, 17581, 421, "What restaurant do you whant to go ro", o
+10, Delete, 17769, 188, "What restaurant do you whant to go r", r
+10, Delete, 17925, 156, "What restaurant do you whant to go ", Space
+10, Delete, 18081, 156, "What restaurant do you whant to go", o
+10, Delete, 18237, 156, "What restaurant do you whant to g", g
+10, Delete, 18393, 156, "What restaurant do you whant to ", Space
+10, Delete, 18876, 483, "What restaurant do you whant to", o
+10, Delete, 19048, 172, "What restaurant do you whant t", t
+10, Delete, 19204, 156, "What restaurant do you whant ", Space
+10, Delete, 19641, 437, "What restaurant do you whant", t
+10, Delete, 20046, 405, "What restaurant do you whan", n
+10, Delete, 27565, 7519, "What restaurant do you wha", a
+10, Delete, 27753, 188, "What restaurant do you wh", h
+10, KeyInput, 28735, 982, "What restaurant do you w", a
+10, KeyInput, 29125, 390, "What restaurant do you wa", n
+10, KeyInput, 29219, 94, "What restaurant do you wan", t
+10, KeyInput, 29328, 109, "What restaurant do you want", Space
+10, KeyInput, 29874, 546, "What restaurant do you want ", t
+10, KeyInput, 30015, 141, "What restaurant do you want t", o
+10, KeyInput, 30171, 156, "What restaurant do you want to", Space
+10, KeyInput, 30670, 499, "What restaurant do you want to ", g
+10, KeyInput, 30826, 156, "What restaurant do you want to g", o
+10, KeyInput, 30997, 171, "What restaurant do you want to go", Space
+10, KeyInput, 31231, 234, "What restaurant do you want to go ", t
+10, KeyInput, 31387, 156, "What restaurant do you want to go t", o
+10, KeyInput, 31512, 125, "What restaurant do you want to go to", Space
+10, KeyInput, 31996, 484, "What restaurant do you want to go to ", t
+10, KeyInput, 32136, 140, "What restaurant do you want to go to t", o
+10, KeyInput, 32448, 312, "What restaurant do you want to go to to", n
+10, KeyInput, 32698, 250, "What restaurant do you want to go to ton", i
+10, KeyInput, 32947, 249, "What restaurant do you want to go to toni", g
+10, KeyInput, 33025, 78, "What restaurant do you want to go to tonig", h
+10, KeyInput, 33150, 125, "What restaurant do you want to go to tonigh", t
+10, KeyInput, 34149, 999, "What restaurant do you want to go to tonight", ?
+11, KeyInput, 0, 0, I, Space
+11, KeyInput, 514, 514, "I ", f
+11, KeyInput, 686, 172, "I f", i
+11, KeyInput, 889, 203, "I fi", n
+11, KeyInput, 1045, 156, "I fin", n
+11, KeyInput, 1185, 140, "I finn", a
+11, KeyInput, 2074, 889, "I finna", l
+11, KeyInput, 2246, 172, "I finnal", l
+11, KeyInput, 2386, 140, "I finnall", y
+11, KeyInput, 2511, 125, "I finnally", Space
+11, Delete, 4040, 1529, "I finnally ", Space
+11, Delete, 4212, 172, "I finnally", y
+11, Delete, 4368, 156, "I finnall", l
+11, Delete, 4508, 140, "I finnal", l
+11, Delete, 4695, 187, "I finna", a
+11, Delete, 4929, 234, "I finn", n
+11, KeyInput, 5382, 453, "I fin", a
+11, KeyInput, 5538, 156, "I fina", l
+11, KeyInput, 5694, 156, "I final", l
+11, KeyInput, 6536, 842, "I finall", y
+11, KeyInput, 6676, 140, "I finally", Space
+11, KeyInput, 7378, 702, "I finally ", s
+11, KeyInput, 7566, 188, "I finally s", o
+11, KeyInput, 7784, 218, "I finally so", l
+11, KeyInput, 8455, 671, "I finally sol", c
+11, Delete, 8798, 343, "I finally solc", c
+11, KeyInput, 8907, 109, "I finally sol", v
+11, KeyInput, 9048, 141, "I finally solv", e
+11, KeyInput, 9266, 218, "I finally solve", d
+11, KeyInput, 9500, 234, "I finally solved", Space
+11, KeyInput, 9952, 452, "I finally solved ", t
+11, KeyInput, 10108, 156, "I finally solved t", h
+11, KeyInput, 10249, 141, "I finally solved th", a
+11, KeyInput, 10358, 109, "I finally solved tha", t
+11, KeyInput, 10826, 468, "I finally solved that", Space
+11, KeyInput, 11372, 546, "I finally solved that ", d
+11, KeyInput, 11590, 218, "I finally solved that d", i
+11, KeyInput, 11778, 188, "I finally solved that di", f
+11, KeyInput, 11965, 187, "I finally solved that dif", f
+11, KeyInput, 12433, 468, "I finally solved that diff", i
+11, KeyInput, 13104, 671, "I finally solved that diffi", c
+11, KeyInput, 13291, 187, "I finally solved that diffic", u
+11, KeyInput, 13603, 312, "I finally solved that difficu", l
+11, KeyInput, 13712, 109, "I finally solved that difficul", t
+11, KeyInput, 13852, 140, "I finally solved that difficult", Space
+11, KeyInput, 15007, 1155, "I finally solved that difficult ", h
+11, KeyInput, 15147, 140, "I finally solved that difficult h", o
+11, KeyInput, 15303, 156, "I finally solved that difficult ho", m
+11, Delete, 16972, 1669, "I finally solved that difficult hom", m
+11, Delete, 17472, 500, "I finally solved that difficult ho", o
+11, Delete, 17503, 31, "I finally solved that difficult h", h
+11, Delete, 17534, 31, "I finally solved that difficult ", Space
+11, Delete, 17565, 31, "I finally solved that difficult", t
+11, Delete, 17581, 16, "I finally solved that difficul", l
+11, Delete, 17628, 47, "I finally solved that difficu", u
+11, Delete, 17659, 31, "I finally solved that diffic", c
+11, Delete, 17690, 31, "I finally solved that diffi", i
+11, Delete, 18049, 359, "I finally solved that diff", f
+11, KeyInput, 18532, 483, "I finally solved that dif", i
+11, KeyInput, 18829, 297, "I finally solved that difi", c
+11, KeyInput, 19032, 203, "I finally solved that dific", u
+11, KeyInput, 19250, 218, "I finally solved that dificu", l
+11, KeyInput, 19531, 281, "I finally solved that dificul", t
+11, KeyInput, 19640, 109, "I finally solved that dificult", Space
+11, KeyInput, 20685, 1045, "I finally solved that dificult ", h
+11, KeyInput, 20779, 94, "I finally solved that dificult h", o
+11, KeyInput, 20888, 109, "I finally solved that dificult ho", m
+11, KeyInput, 20982, 94, "I finally solved that dificult hom", e
+11, KeyInput, 21840, 858, "I finally solved that dificult home", w
+11, KeyInput, 22089, 249, "I finally solved that dificult homew", o
+11, KeyInput, 22230, 141, "I finally solved that dificult homewo", r
+11, KeyInput, 22417, 187, "I finally solved that dificult homewor", k
+11, KeyInput, 22620, 203, "I finally solved that dificult homework", Space
+11, KeyInput, 23540, 920, "I finally solved that dificult homework ", p
+11, KeyInput, 23727, 187, "I finally solved that dificult homework p", r
+11, KeyInput, 23868, 141, "I finally solved that dificult homework pr", o
+11, KeyInput, 24055, 187, "I finally solved that dificult homework pro", b
+11, KeyInput, 24211, 156, "I finally solved that dificult homework prob", l
+11, KeyInput, 24320, 109, "I finally solved that dificult homework probl", e
+11, KeyInput, 24507, 187, "I finally solved that dificult homework proble", m
+11, KeyInput, 25615, 1108, "I finally solved that dificult homework problem", !
+11, Delete, 26738, 1123, "I finally solved that dificult homework problem!", !
+12, KeyInput, 0, 0, M, y
+12, KeyInput, 109, 109, "My", Space
+12, KeyInput, 609, 500, "My ", l
+12, KeyInput, 1014, 405, "My l", a
+12, KeyInput, 1108, 94, "My la", p
+12, KeyInput, 1326, 218, "My lap", t
+12, KeyInput, 1623, 297, "My lapt", o
+12, KeyInput, 1810, 187, "My lapto", p
+12, KeyInput, 2309, 499, "My laptop", Space
+12, KeyInput, 2699, 390, "My laptop ", b
+12, KeyInput, 3370, 671, "My laptop b", r
+12, KeyInput, 3541, 171, "My laptop br", o
+12, KeyInput, 3760, 219, "My laptop bro", k
+12, KeyInput, 3947, 187, "My laptop brok", e
+12, KeyInput, 4743, 796, "My laptop broke", ,
+12, KeyInput, 4914, 171, "My laptop broke,", Space
+12, KeyInput, 5569, 655, "My laptop broke, ", s
+12, KeyInput, 5694, 125, "My laptop broke, s", o
+12, KeyInput, 5866, 172, "My laptop broke, so", Space
+12, KeyInput, 6334, 468, "My laptop broke, so ", I
+12, KeyInput, 6474, 140, "My laptop broke, so I", Space
+12, KeyInput, 6849, 375, "My laptop broke, so I ", b
+12, KeyInput, 7005, 156, "My laptop broke, so I b", o
+12, KeyInput, 7114, 109, "My laptop broke, so I bo", u
+12, KeyInput, 7441, 327, "My laptop broke, so I bou", g
+12, KeyInput, 7551, 110, "My laptop broke, so I boug", h
+12, KeyInput, 7675, 124, "My laptop broke, so I bough", t
+12, KeyInput, 7785, 110, "My laptop broke, so I bought", Space
+12, KeyInput, 8331, 546, "My laptop broke, so I bought ", a
+12, KeyInput, 8424, 93, "My laptop broke, so I bought a", Space
+12, KeyInput, 9189, 765, "My laptop broke, so I bought a ", n
+12, KeyInput, 9360, 171, "My laptop broke, so I bought a n", e
+12, KeyInput, 9438, 78, "My laptop broke, so I bought a ne", w
+12, KeyInput, 9563, 125, "My laptop broke, so I bought a new", Space
+12, KeyInput, 9953, 390, "My laptop broke, so I bought a new ", H
+12, KeyInput, 10203, 250, "My laptop broke, so I bought a new H", P
+12, KeyInput, 10421, 218, "My laptop broke, so I bought a new HP", Space
+12, KeyInput, 10811, 390, "My laptop broke, so I bought a new HP ", l
+12, KeyInput, 11419, 608, "My laptop broke, so I bought a new HP l", a
+12, KeyInput, 11560, 141, "My laptop broke, so I bought a new HP la", o
+12, Delete, 12277, 717, "My laptop broke, so I bought a new HP lao", o
+12, KeyInput, 12496, 219, "My laptop broke, so I bought a new HP la", p
+12, KeyInput, 12808, 312, "My laptop broke, so I bought a new HP lap", t
+12, KeyInput, 13073, 265, "My laptop broke, so I bought a new HP lapt", o
+12, KeyInput, 13167, 94, "My laptop broke, so I bought a new HP lapto", p
+12, KeyInput, 13791, 624, "My laptop broke, so I bought a new HP laptop", .
+13, KeyInput, 0, 0, W, e
+13, KeyInput, 1575, 1575, "We", Space
+13, KeyInput, 2137, 562, "We ", k
+13, KeyInput, 2215, 78, "We k", n
+13, KeyInput, 2480, 265, "We kn", o
+13, KeyInput, 2714, 234, "We kno", w
+13, KeyInput, 2839, 125, "We know", Space
+13, KeyInput, 3385, 546, "We know ", w
+13, KeyInput, 3557, 172, "We know w", h
+13, KeyInput, 3681, 124, "We know wh", a
+13, KeyInput, 3853, 172, "We know wha", t
+13, KeyInput, 4368, 515, "We know what", Space
+13, KeyInput, 4976, 608, "We know what ", e
+13, Delete, 5397, 421, "We know what e", e
+13, KeyInput, 5538, 141, "We know what ", w
+13, KeyInput, 5600, 62, "We know what w", e
+13, KeyInput, 5756, 156, "We know what we", Space
+13, KeyInput, 5975, 219, "We know what we ", a
+13, KeyInput, 6365, 390, "We know what we a", r
+13, KeyInput, 6474, 109, "We know what we ar", e
+13, KeyInput, 6614, 140, "We know what we are", Space
+13, Delete, 6957, 343, "We know what we are ", Space
+13, KeyInput, 7519, 562, "We know what we are", ,
+13, KeyInput, 7628, 109, "We know what we are,", Space
+13, KeyInput, 8252, 624, "We know what we are, ", b
+13, KeyInput, 8502, 250, "We know what we are, b", u
+13, KeyInput, 8642, 140, "We know what we are, bu", t
+13, KeyInput, 8829, 187, "We know what we are, but", Space
+13, KeyInput, 9719, 890, "We know what we are, but ", k
+13, KeyInput, 9828, 109, "We know what we are, but k", n
+13, KeyInput, 10015, 187, "We know what we are, but kn", o
+13, KeyInput, 10374, 359, "We know what we are, but kno", w
+13, KeyInput, 10483, 109, "We know what we are, but know", Space
+13, KeyInput, 11138, 655, "We know what we are, but know ", n
+13, KeyInput, 11497, 359, "We know what we are, but know n", o
+13, KeyInput, 11778, 281, "We know what we are, but know no", t
+13, KeyInput, 11856, 78, "We know what we are, but know not", Space
+13, KeyInput, 12823, 967, "We know what we are, but know not ", w
+13, KeyInput, 13119, 296, "We know what we are, but know not w", h
+13, KeyInput, 13385, 266, "We know what we are, but know not wh", a
+13, KeyInput, 13478, 93, "We know what we are, but know not wha", t
+13, KeyInput, 13587, 109, "We know what we are, but know not what", Space
+13, KeyInput, 14243, 656, "We know what we are, but know not what ", w
+13, KeyInput, 14367, 124, "We know what we are, but know not what w", e
+13, KeyInput, 14492, 125, "We know what we are, but know not what we", Space
+13, KeyInput, 14882, 390, "We know what we are, but know not what we ", m
+13, KeyInput, 14991, 109, "We know what we are, but know not what we m", a
+13, KeyInput, 15288, 297, "We know what we are, but know not what we ma", y
+13, KeyInput, 15381, 93, "We know what we are, but know not what we may", Space
+13, KeyInput, 15927, 546, "We know what we are, but know not what we may ", b
+13, KeyInput, 16473, 546, "We know what we are, but know not what we may b", e
+13, KeyInput, 16754, 281, "We know what we are, but know not what we may be", .
+14, KeyInput, 0, 0, T, h
+14, KeyInput, 78, 78, "Th", e
+14, KeyInput, 187, 109, "The", Space
+14, KeyInput, 717, 530, "The ", P
+14, KeyInput, 1029, 312, "The P", o
+14, KeyInput, 1357, 328, "The Po", w
+14, KeyInput, 1575, 218, "The Pow", e
+14, KeyInput, 1653, 78, "The Powe", r
+14, KeyInput, 2262, 609, "The Power", P
+14, KeyInput, 2496, 234, "The PowerP", o
+14, KeyInput, 2839, 343, "The PowerPo", i
+14, KeyInput, 2964, 125, "The PowerPoi", n
+14, KeyInput, 3088, 124, "The PowerPoin", t
+14, KeyInput, 4524, 1436, "The PowerPoint", Space
+14, KeyInput, 5522, 998, "The PowerPoint ", s
+14, KeyInput, 5647, 125, "The PowerPoint s", l
+14, KeyInput, 5881, 234, "The PowerPoint sl", i
+14, KeyInput, 6099, 218, "The PowerPoint sli", d
+14, KeyInput, 6286, 187, "The PowerPoint slid", e
+14, KeyInput, 6489, 203, "The PowerPoint slide", s
+14, KeyInput, 6583, 94, "The PowerPoint slides", Space
+14, KeyInput, 6754, 171, "The PowerPoint slides ", i
+14, KeyInput, 6926, 172, "The PowerPoint slides i", n
+14, KeyInput, 6926, 0, "The PowerPoint slides in", b
+14, KeyInput, 6988, 62, "The PowerPoint slides inb", Space
+14, Delete, 7472, 484, "The PowerPoint slides inb ", Space
+14, Delete, 7659, 187, "The PowerPoint slides inb", b
+14, KeyInput, 8018, 359, "The PowerPoint slides in", Space
+14, KeyInput, 8642, 624, "The PowerPoint slides in ", c
+14, KeyInput, 8814, 172, "The PowerPoint slides in c", l
+14, KeyInput, 9001, 187, "The PowerPoint slides in cl", a
+14, KeyInput, 9188, 187, "The PowerPoint slides in cla", s
+14, KeyInput, 9344, 156, "The PowerPoint slides in clas", s
+14, KeyInput, 9453, 109, "The PowerPoint slides in class", Space
+14, KeyInput, 10483, 1030, "The PowerPoint slides in class ", w
+14, KeyInput, 10686, 203, "The PowerPoint slides in class w", e
+14, KeyInput, 10779, 93, "The PowerPoint slides in class we", r
+14, KeyInput, 10904, 125, "The PowerPoint slides in class wer", e
+14, KeyInput, 11762, 858, "The PowerPoint slides in class were", n
+14, KeyInput, 13135, 1373, "The PowerPoint slides in class weren", '
+14, KeyInput, 13182, 47, "The PowerPoint slides in class weren'", t
+14, KeyInput, 13291, 109, "The PowerPoint slides in class weren't", Space
+14, KeyInput, 13977, 686, "The PowerPoint slides in class weren't ", h
+14, KeyInput, 14336, 359, "The PowerPoint slides in class weren't h", e
+14, KeyInput, 14492, 156, "The PowerPoint slides in class weren't he", l
+14, KeyInput, 14586, 94, "The PowerPoint slides in class weren't hel", p
+14, KeyInput, 15475, 889, "The PowerPoint slides in class weren't help", f
+14, KeyInput, 15881, 406, "The PowerPoint slides in class weren't helpf", u
+14, KeyInput, 16083, 202, "The PowerPoint slides in class weren't helpfu", l
+14, KeyInput, 16224, 141, "The PowerPoint slides in class weren't helpful", l
+14, KeyInput, 16926, 702, "The PowerPoint slides in class weren't helpfull", .
+15, KeyInput, 0, 0, W, h
+15, KeyInput, 1139, 1139, "Wh", u
+15, KeyInput, 1295, 156, "Whu", Space
+15, KeyInput, 1857, 562, "Whu ", i
+15, KeyInput, 1950, 93, "Whu i", s
+15, KeyInput, 2059, 109, "Whu is", Space
+15, KeyInput, 2527, 468, "Whu is ", t
+15, KeyInput, 2621, 94, "Whu is t", h
+15, KeyInput, 2808, 187, "Whu is th", i
+15, KeyInput, 2964, 156, "Whu is thi", s
+15, KeyInput, 3105, 141, "Whu is this", Space
+15, KeyInput, 3526, 421, "Whu is this ", r
+15, KeyInput, 3760, 234, "Whu is this r", o
+15, KeyInput, 4103, 343, "Whu is this ro", o
+15, KeyInput, 4353, 250, "Whu is this roo", m
+15, KeyInput, 4524, 171, "Whu is this room", Space
+15, KeyInput, 5055, 531, "Whu is this room ", a
+15, KeyInput, 5242, 187, "Whu is this room a", l
+15, KeyInput, 5725, 483, "Whu is this room al", w
+15, KeyInput, 5928, 203, "Whu is this room alw", a
+15, KeyInput, 6349, 421, "Whu is this room alwa", y
+15, KeyInput, 6459, 110, "Whu is this room alway", s
+15, KeyInput, 6583, 124, "Whu is this room always", Space
+15, KeyInput, 7020, 437, "Whu is this room always ", s
+15, KeyInput, 7270, 250, "Whu is this room always s", o
+15, KeyInput, 7395, 125, "Whu is this room always so", Space
+15, KeyInput, 7847, 452, "Whu is this room always so ", c
+15, KeyInput, 7987, 140, "Whu is this room always so c", o
+15, KeyInput, 8237, 250, "Whu is this room always so co", l
+15, KeyInput, 8409, 172, "Whu is this room always so col", d
+15, KeyInput, 8518, 109, "Whu is this room always so cold", Space
+15, KeyInput, 9516, 998, "Whu is this room always so cold ", J
+15, KeyInput, 10983, 1467, "Whu is this room always so cold J", o
+15, KeyInput, 11388, 405, "Whu is this room always so cold Jo", h
+15, KeyInput, 11653, 265, "Whu is this room always so cold Joh", n
+15, KeyInput, 12511, 858, "Whu is this room always so cold John", ?
+16, KeyInput, 0, 0, E, v
+16, KeyInput, 140, 140, "Ev", e
+16, KeyInput, 234, 94, "Eve", r
+16, KeyInput, 952, 718, "Ever", y
+16, KeyInput, 1045, 93, "Every", Space
+16, KeyInput, 1685, 640, "Every ", t
+16, KeyInput, 1825, 140, "Every t", i
+16, KeyInput, 1950, 125, "Every ti", m
+16, KeyInput, 2044, 94, "Every tim", e
+16, KeyInput, 2168, 124, "Every time", Space
+16, KeyInput, 2886, 718, "Every time ", I
+16, KeyInput, 3104, 218, "Every time I", Space
+16, KeyInput, 3838, 734, "Every time I ", g
+16, KeyInput, 3962, 124, "Every time I g", o
+16, KeyInput, 4118, 156, "Every time I go", Space
+16, KeyInput, 4820, 702, "Every time I go ", t
+16, KeyInput, 4930, 110, "Every time I go t", o
+16, KeyInput, 5054, 124, "Every time I go to", Space
+16, KeyInput, 5632, 578, "Every time I go to ", M
+16, KeyInput, 5959, 327, "Every time I go to M", c
+16, KeyInput, 6786, 827, "Every time I go to Mc", D
+16, KeyInput, 6958, 172, "Every time I go to McD", o
+16, KeyInput, 7098, 140, "Every time I go to McDo", n
+16, KeyInput, 7348, 250, "Every time I go to McDon", a
+16, KeyInput, 7535, 187, "Every time I go to McDona", l
+16, KeyInput, 7878, 343, "Every time I go to McDonal", d
+16, KeyInput, 8237, 359, "Every time I go to McDonald", s
+16, KeyInput, 8440, 203, "Every time I go to McDonalds", Space
+16, KeyInput, 8986, 546, "Every time I go to McDonalds ", t
+16, KeyInput, 9095, 109, "Every time I go to McDonalds t", h
+16, KeyInput, 9204, 109, "Every time I go to McDonalds th", e
+16, KeyInput, 9298, 94, "Every time I go to McDonalds the", r
+16, Delete, 10187, 889, "Every time I go to McDonalds ther", r
+16, KeyInput, 10468, 281, "Every time I go to McDonalds the", y
+16, KeyInput, 10499, 31, "Every time I go to McDonalds they", u
+16, Delete, 10920, 421, "Every time I go to McDonalds theyu", u
+16, KeyInput, 11123, 203, "Every time I go to McDonalds they", Space
+16, KeyInput, 11606, 483, "Every time I go to McDonalds they ", g
+16, KeyInput, 11809, 203, "Every time I go to McDonalds they g", e
+16, KeyInput, 12012, 203, "Every time I go to McDonalds they ge", t
+16, KeyInput, 12152, 140, "Every time I go to McDonalds they get", Space
+16, KeyInput, 12808, 656, "Every time I go to McDonalds they get ", m
+16, KeyInput, 13104, 296, "Every time I go to McDonalds they get m", y
+16, KeyInput, 13198, 94, "Every time I go to McDonalds they get my", Space
+16, KeyInput, 13541, 343, "Every time I go to McDonalds they get my ", o
+16, KeyInput, 13868, 327, "Every time I go to McDonalds they get my o", r
+16, KeyInput, 14118, 250, "Every time I go to McDonalds they get my or", d
+16, KeyInput, 14290, 172, "Every time I go to McDonalds they get my ord", e
+16, KeyInput, 14352, 62, "Every time I go to McDonalds they get my orde", r
+16, KeyInput, 14508, 156, "Every time I go to McDonalds they get my order", Space
+16, KeyInput, 15522, 1014, "Every time I go to McDonalds they get my order ", w
+16, KeyInput, 15740, 218, "Every time I go to McDonalds they get my order w", r
+16, KeyInput, 15928, 188, "Every time I go to McDonalds they get my order wr", o
+16, KeyInput, 16099, 171, "Every time I go to McDonalds they get my order wro", n
+16, KeyInput, 16380, 281, "Every time I go to McDonalds they get my order wron", g
+16, KeyInput, 17207, 827, "Every time I go to McDonalds they get my order wrong", .
+17, KeyInput, 0, 0, T, h
+17, KeyInput, 47, 47, "Th", e
+17, KeyInput, 172, 125, "The", Space
+17, KeyInput, 827, 655, "The ", v
+17, KeyInput, 1046, 219, "The v", a
+17, KeyInput, 1202, 156, "The va", l
+17, KeyInput, 1529, 327, "The val", u
+17, KeyInput, 1623, 94, "The valu", e
+17, KeyInput, 1794, 171, "The value", Space
+17, KeyInput, 2590, 796, "The value ", o
+17, KeyInput, 2684, 94, "The value o", f
+17, KeyInput, 2824, 140, "The value of", Space
+17, KeyInput, 3370, 546, "The value of ", p
+17, KeyInput, 3620, 250, "The value of p", i
+17, KeyInput, 3744, 124, "The value of pi", Space
+17, KeyInput, 4368, 624, "The value of pi ", i
+17, KeyInput, 4446, 78, "The value of pi i", s
+17, KeyInput, 4556, 110, "The value of pi is", Space
+17, KeyInput, 4852, 296, "The value of pi is ", a
+17, KeyInput, 5180, 328, "The value of pi is a", p
+17, KeyInput, 5320, 140, "The value of pi is ap", p
+17, KeyInput, 5554, 234, "The value of pi is app", r
+17, KeyInput, 5804, 250, "The value of pi is appr", o
+17, KeyInput, 6272, 468, "The value of pi is appro", x
+17, KeyInput, 6693, 421, "The value of pi is approx", i
+17, KeyInput, 6911, 218, "The value of pi is approxi", m
+17, KeyInput, 7098, 187, "The value of pi is approxim", a
+17, KeyInput, 7301, 203, "The value of pi is approxima", t
+17, KeyInput, 7566, 265, "The value of pi is approximat", l
+17, KeyInput, 8253, 687, "The value of pi is approximatl", e
+17, KeyInput, 8534, 281, "The value of pi is approximatle", y
+17, KeyInput, 8830, 296, "The value of pi is approximatley", Space
+17, Delete, 9844, 1014, "The value of pi is approximatley ", Space
+17, Delete, 10016, 172, "The value of pi is approximatley", y
+17, Delete, 10983, 967, "The value of pi is approximatle", e
+17, Delete, 11201, 218, "The value of pi is approximatl", l
+17, KeyInput, 12761, 1560, "The value of pi is approximat", e
+17, KeyInput, 13011, 250, "The value of pi is approximate", l
+17, KeyInput, 13229, 218, "The value of pi is approximatel", y
+17, KeyInput, 13229, 0, "The value of pi is approximately", t
+17, Delete, 13744, 515, "The value of pi is approximatelyt", t
+17, KeyInput, 14087, 343, "The value of pi is approximately", Space
+17, KeyInput, 14914, 827, "The value of pi is approximately ", 3
+17, KeyInput, 15195, 281, "The value of pi is approximately 3", .
+17, KeyInput, 16068, 873, "The value of pi is approximately 3.", 1
+17, KeyInput, 16427, 359, "The value of pi is approximately 3.1", .
+17, KeyInput, 16973, 546, "The value of pi is approximately 3.1.", \
+17, Delete, 16989, 16, "The value of pi is approximately 3.1.\", \
+17, KeyInput, 17160, 171, "The value of pi is approximately 3.1.", 4
+17, Delete, 17348, 188, "The value of pi is approximately 3.1.4", 4
+17, Delete, 17519, 171, "The value of pi is approximately 3.1.", .
+17, KeyInput, 17831, 312, "The value of pi is approximately 3.1", 4
+17, KeyInput, 18502, 671, "The value of pi is approximately 3.14", 1
+17, KeyInput, 19017, 515, "The value of pi is approximately 3.141", 5
+17, KeyInput, 19422, 405, "The value of pi is approximately 3.1415", 9
+17, KeyInput, 20530, 1108, "The value of pi is approximately 3.14159", .
+18, KeyInput, 0, 0, W, a
+18, KeyInput, 453, 453, "Wa", s
+18, KeyInput, 577, 124, "Was", h
+18, KeyInput, 796, 219, "Wash", o
+18, KeyInput, 796, 0, "Washo", i
+18, Delete, 1264, 468, "Washoi", i
+18, Delete, 1779, 515, "Washo", o
+18, KeyInput, 2668, 889, "Wash", i
+18, KeyInput, 2777, 109, "Washi", n
+18, KeyInput, 2808, 31, "Washin", f
+18, Delete, 3510, 702, "Washinf", f
+18, KeyInput, 3697, 187, "Washin", g
+18, KeyInput, 4992, 1295, "Washing", t
+18, KeyInput, 5179, 187, "Washingt", o
+18, KeyInput, 5460, 281, "Washingto", n
+18, KeyInput, 6381, 921, "Washington", Space
+18, KeyInput, 6895, 514, "Washington ", D
+18, KeyInput, 7551, 656, "Washington D", .
+18, KeyInput, 8019, 468, "Washington D.", C
+18, KeyInput, 9033, 1014, "Washington D.C", .
+18, KeyInput, 9313, 280, "Washington D.C.", Space
+18, KeyInput, 10000, 687, "Washington D.C. ", i
+18, KeyInput, 10140, 140, "Washington D.C. i", s
+18, KeyInput, 10281, 141, "Washington D.C. is", Space
+18, KeyInput, 10733, 452, "Washington D.C. is ", a
+18, KeyInput, 10811, 78, "Washington D.C. is a", Space
+18, KeyInput, 11419, 608, "Washington D.C. is a ", g
+18, KeyInput, 11544, 125, "Washington D.C. is a g", r
+18, KeyInput, 11763, 219, "Washington D.C. is a gr", e
+18, KeyInput, 12012, 249, "Washington D.C. is a gre", a
+18, KeyInput, 12184, 172, "Washington D.C. is a grea", t
+18, KeyInput, 12340, 156, "Washington D.C. is a great", Space
+18, KeyInput, 12792, 452, "Washington D.C. is a great ", p
+18, KeyInput, 13011, 219, "Washington D.C. is a great p", l
+18, KeyInput, 13291, 280, "Washington D.C. is a great pl", a
+18, KeyInput, 13463, 172, "Washington D.C. is a great pla", v
+18, KeyInput, 13650, 187, "Washington D.C. is a great plav", e
+18, Delete, 13947, 297, "Washington D.C. is a great plave", e
+18, KeyInput, 14087, 140, "Washington D.C. is a great plav", c
+18, KeyInput, 14227, 140, "Washington D.C. is a great plavc", e
+18, Delete, 14649, 422, "Washington D.C. is a great plavce", e
+18, Delete, 14851, 202, "Washington D.C. is a great plavc", c
+18, Delete, 15007, 156, "Washington D.C. is a great plav", v
+18, KeyInput, 15101, 94, "Washington D.C. is a great pla", c
+18, KeyInput, 15210, 109, "Washington D.C. is a great plac", e
+18, KeyInput, 15569, 359, "Washington D.C. is a great place", Space
+18, KeyInput, 16177, 608, "Washington D.C. is a great place ", f
+18, KeyInput, 16349, 172, "Washington D.C. is a great place f", o
+18, KeyInput, 16489, 140, "Washington D.C. is a great place fo", Space
+18, KeyInput, 16677, 188, "Washington D.C. is a great place fo ", a
+18, KeyInput, 17129, 452, "Washington D.C. is a great place fo a", Space
+18, KeyInput, 17659, 530, "Washington D.C. is a great place fo a ", f
+18, KeyInput, 17847, 188, "Washington D.C. is a great place fo a f", i
+18, KeyInput, 18049, 202, "Washington D.C. is a great place fo a fi", e
+18, KeyInput, 18174, 125, "Washington D.C. is a great place fo a fie", l
+18, KeyInput, 18408, 234, "Washington D.C. is a great place fo a fiel", d
+18, KeyInput, 18985, 577, "Washington D.C. is a great place fo a field", t
+18, KeyInput, 19095, 110, "Washington D.C. is a great place fo a fieldt", r
+18, KeyInput, 19313, 218, "Washington D.C. is a great place fo a fieldtr", i
+18, KeyInput, 19563, 250, "Washington D.C. is a great place fo a fieldtri", p
+18, Delete, 21996, 2433, "Washington D.C. is a great place fo a fieldtrip", p
+18, Delete, 22839, 843, "Washington D.C. is a great place fo a fieldtri", i
+18, Delete, 23073, 234, "Washington D.C. is a great place fo a fieldtr", r
+18, Delete, 23260, 187, "Washington D.C. is a great place fo a fieldt", t
+18, Delete, 23759, 499, "Washington D.C. is a great place fo a field", d
+18, Delete, 23790, 31, "Washington D.C. is a great place fo a fiel", l
+18, Delete, 23821, 31, "Washington D.C. is a great place fo a fie", e
+18, Delete, 23837, 16, "Washington D.C. is a great place fo a fi", i
+18, Delete, 24024, 187, "Washington D.C. is a great place fo a f", f
+18, Delete, 24211, 187, "Washington D.C. is a great place fo a ", Space
+18, Delete, 24367, 156, "Washington D.C. is a great place fo a", a
+18, Delete, 24539, 172, "Washington D.C. is a great place fo ", Space
+18, KeyInput, 25397, 858, "Washington D.C. is a great place fo", r
+18, KeyInput, 25522, 125, "Washington D.C. is a great place for", Space
+18, KeyInput, 25693, 171, "Washington D.C. is a great place for ", a
+18, KeyInput, 25771, 78, "Washington D.C. is a great place for a", Space
+18, KeyInput, 26723, 952, "Washington D.C. is a great place for a ", f
+18, KeyInput, 26879, 156, "Washington D.C. is a great place for a f", i
+18, KeyInput, 27144, 265, "Washington D.C. is a great place for a fi", e
+18, KeyInput, 27300, 156, "Washington D.C. is a great place for a fie", l
+18, KeyInput, 27550, 250, "Washington D.C. is a great place for a fiel", d
+18, KeyInput, 28080, 530, "Washington D.C. is a great place for a field", t
+18, KeyInput, 28205, 125, "Washington D.C. is a great place for a fieldt", r
+18, KeyInput, 28408, 203, "Washington D.C. is a great place for a fieldtr", i
+18, KeyInput, 28564, 156, "Washington D.C. is a great place for a fieldtri", p
+18, KeyInput, 29313, 749, "Washington D.C. is a great place for a fieldtrip", .
+19, KeyInput, 0, 0, Y, e
+19, KeyInput, 265, 265, "Ye", s
+19, KeyInput, 359, 94, "Yes", t
+19, KeyInput, 1685, 1326, "Yest", u
+19, KeyInput, 1809, 124, "Yestu", r
+19, KeyInput, 2652, 843, "Yestur", d
+19, KeyInput, 2917, 265, "Yesturd", a
+19, KeyInput, 3432, 515, "Yesturda", y
+19, KeyInput, 4056, 624, "Yesturday", ,
+19, KeyInput, 4165, 109, "Yesturday,", Space
+19, KeyInput, 4836, 671, "Yesturday, ", I
+19, KeyInput, 5023, 187, "Yesturday, I", Space
+19, KeyInput, 5709, 686, "Yesturday, I ", a
+19, KeyInput, 5959, 250, "Yesturday, I a", t
+19, KeyInput, 6053, 94, "Yesturday, I at", e
+19, KeyInput, 6224, 171, "Yesturday, I ate", Space
+19, KeyInput, 7550, 1326, "Yesturday, I ate ", 2
+19, KeyInput, 7831, 281, "Yesturday, I ate 2", 1
+19, KeyInput, 8065, 234, "Yesturday, I ate 21", Space
+19, KeyInput, 8892, 827, "Yesturday, I ate 21 ", s
+19, KeyInput, 9048, 156, "Yesturday, I ate 21 s", l
+19, KeyInput, 9297, 249, "Yesturday, I ate 21 sl", i
+19, KeyInput, 9438, 141, "Yesturday, I ate 21 sli", c
+19, KeyInput, 9563, 125, "Yesturday, I ate 21 slic", e
+19, KeyInput, 9781, 218, "Yesturday, I ate 21 slice", s
+19, KeyInput, 9875, 94, "Yesturday, I ate 21 slices", Space
+19, KeyInput, 11091, 1216, "Yesturday, I ate 21 slices ", o
+19, KeyInput, 11279, 188, "Yesturday, I ate 21 slices o", f
+19, KeyInput, 11388, 109, "Yesturday, I ate 21 slices of", Space
+19, KeyInput, 12012, 624, "Yesturday, I ate 21 slices of ", p
+19, KeyInput, 12199, 187, "Yesturday, I ate 21 slices of p", i
+19, KeyInput, 12698, 499, "Yesturday, I ate 21 slices of pi", z
+19, KeyInput, 12854, 156, "Yesturday, I ate 21 slices of piz", z
+19, KeyInput, 13525, 671, "Yesturday, I ate 21 slices of pizz", a
+19, KeyInput, 14149, 624, "Yesturday, I ate 21 slices of pizza", .
+20, KeyInput, 0, 0, W, h
+20, KeyInput, 219, 219, "Wh", e
+20, KeyInput, 328, 109, "Whe", n
+20, KeyInput, 624, 296, "When", Space
+20, KeyInput, 1264, 640, "When ", I
+20, KeyInput, 1373, 109, "When I", Space
+20, KeyInput, 2044, 671, "When I ", g
+20, KeyInput, 2215, 171, "When I g", o
+20, KeyInput, 2371, 156, "When I go", Space
+20, KeyInput, 3011, 640, "When I go ", t
+20, KeyInput, 3261, 250, "When I go t", o
+20, KeyInput, 3385, 124, "When I go to", Space
+20, KeyInput, 3713, 328, "When I go to ", t
+20, KeyInput, 4228, 515, "When I go to t", h
+20, KeyInput, 4368, 140, "When I go to th", e
+20, KeyInput, 4509, 141, "When I go to the", Space
+20, KeyInput, 5101, 592, "When I go to the ", m
+20, KeyInput, 5367, 266, "When I go to the m", a
+20, KeyInput, 5476, 109, "When I go to the ma", l
+20, KeyInput, 5647, 171, "When I go to the mal", l
+20, KeyInput, 5757, 110, "When I go to the mall", Space
+20, KeyInput, 6225, 468, "When I go to the mall ", I
+20, KeyInput, 6349, 124, "When I go to the mall I", Space
+20, KeyInput, 6661, 312, "When I go to the mall I ", a
+20, KeyInput, 6849, 188, "When I go to the mall I a", l
+20, KeyInput, 7348, 499, "When I go to the mall I al", w
+20, KeyInput, 7566, 218, "When I go to the mall I alw", a
+20, KeyInput, 7894, 328, "When I go to the mall I alwa", y
+20, KeyInput, 8050, 156, "When I go to the mall I alway", s
+20, KeyInput, 8206, 156, "When I go to the mall I always", Space
+20, KeyInput, 8892, 686, "When I go to the mall I always ", g
+20, KeyInput, 9126, 234, "When I go to the mall I always g", e
+20, KeyInput, 9189, 63, "When I go to the mall I always ge", t
+20, KeyInput, 9298, 109, "When I go to the mall I always get", Space
+20, KeyInput, 9937, 639, "When I go to the mall I always get ", i
+20, KeyInput, 10078, 141, "When I go to the mall I always get i", c
+20, KeyInput, 10421, 343, "When I go to the mall I always get ic", e
+20, KeyInput, 10577, 156, "When I go to the mall I always get ice", Space
+20, KeyInput, 11529, 952, "When I go to the mall I always get ice ", c
+20, KeyInput, 11841, 312, "When I go to the mall I always get ice c", r
+20, KeyInput, 12121, 280, "When I go to the mall I always get ice cr", e
+20, KeyInput, 12324, 203, "When I go to the mall I always get ice cre", a
+20, KeyInput, 12496, 172, "When I go to the mall I always get ice crea", m
+20, KeyInput, 13245, 749, "When I go to the mall I always get ice cream", .
+21, KeyInput, 0, 0, T, h
+21, KeyInput, 530, 530, "Th", a
+21, KeyInput, 671, 141, "Tha", t
+21, KeyInput, 827, 156, "That", Space
+21, KeyInput, 1248, 421, "That ", m
+21, KeyInput, 1482, 234, "That m", o
+21, KeyInput, 1654, 172, "That mo", c
+21, Delete, 2090, 436, "That moc", c
+21, KeyInput, 2231, 141, "That mo", v
+21, KeyInput, 2496, 265, "That mov", i
+21, KeyInput, 2683, 187, "That movi", e
+21, KeyInput, 3151, 468, "That movie", Space
+21, KeyInput, 3354, 203, "That movie ", w
+21, KeyInput, 3588, 234, "That movie w", a
+21, KeyInput, 3650, 62, "That movie wa", s
+21, KeyInput, 3775, 125, "That movie was", Space
+21, KeyInput, 4508, 733, "That movie was ", r
+21, KeyInput, 4711, 203, "That movie was r", e
+21, KeyInput, 4930, 219, "That movie was re", a
+21, KeyInput, 5086, 156, "That movie was rea", l
+21, KeyInput, 5273, 187, "That movie was real", l
+21, KeyInput, 5897, 624, "That movie was reall", y
+21, KeyInput, 6006, 109, "That movie was really", Space
+21, KeyInput, 6708, 702, "That movie was really ", g
+21, KeyInput, 6848, 140, "That movie was really g", o
+21, KeyInput, 7020, 172, "That movie was really go", o
+21, KeyInput, 8050, 1030, "That movie was really goo", d
+21, KeyInput, 8346, 296, "That movie was really good", ,
+21, KeyInput, 8471, 125, "That movie was really good,", Space
+21, KeyInput, 9142, 671, "That movie was really good, ", w
+21, KeyInput, 9360, 218, "That movie was really good, w", a
+21, KeyInput, 9485, 125, "That movie was really good, wa", s
+21, KeyInput, 10062, 577, "That movie was really good, was", n
+21, KeyInput, 11029, 967, "That movie was really good, wasn", '
+21, KeyInput, 11294, 265, "That movie was really good, wasn'", r
+21, KeyInput, 11294, 0, "That movie was really good, wasn'r", t
+21, Delete, 11778, 484, "That movie was really good, wasn'rt", t
+21, KeyInput, 11950, 172, "That movie was really good, wasn'r", t
+21, Delete, 12106, 156, "That movie was really good, wasn'rt", t
+21, Delete, 12293, 187, "That movie was really good, wasn'r", r
+21, KeyInput, 12418, 125, "That movie was really good, wasn'", t
+21, KeyInput, 13088, 670, "That movie was really good, wasn't", Space
+21, KeyInput, 13510, 422, "That movie was really good, wasn't ", i
+21, KeyInput, 13868, 358, "That movie was really good, wasn't i", t
+21, KeyInput, 14305, 437, "That movie was really good, wasn't it", ?
+22, KeyInput, 0, 0, S, a
+22, KeyInput, 125, 125, "Sa", t
+22, KeyInput, 1076, 951, "Sat", u
+22, KeyInput, 1310, 234, "Satu", r
+22, KeyInput, 1560, 250, "Satur", d
+22, KeyInput, 1778, 218, "Saturd", a
+22, KeyInput, 2168, 390, "Saturda", y
+22, KeyInput, 2324, 156, "Saturday", s
+22, KeyInput, 2465, 141, "Saturdays", Space
+22, KeyInput, 2683, 218, "Saturdays ", a
+22, KeyInput, 2808, 125, "Saturdays a", r
+22, KeyInput, 2979, 171, "Saturdays ar", e
+22, KeyInput, 3073, 94, "Saturdays are", Space
+22, KeyInput, 4056, 983, "Saturdays are ", t
+22, KeyInput, 4165, 109, "Saturdays are t", h
+22, KeyInput, 4305, 140, "Saturdays are th", e
+22, KeyInput, 4446, 141, "Saturdays are the", Space
+22, KeyInput, 5257, 811, "Saturdays are the ", b
+22, KeyInput, 5382, 125, "Saturdays are the b", e
+22, KeyInput, 6006, 624, "Saturdays are the be", s
+22, KeyInput, 6146, 140, "Saturdays are the bes", t
+22, KeyInput, 6552, 406, "Saturdays are the best", Space
+22, KeyInput, 7254, 702, "Saturdays are the best ", b
+22, KeyInput, 7472, 218, "Saturdays are the best b", e
+22, KeyInput, 7675, 203, "Saturdays are the best be", c
+22, KeyInput, 7893, 218, "Saturdays are the best bec", a
+22, KeyInput, 8081, 188, "Saturdays are the best beca", u
+22, KeyInput, 8159, 78, "Saturdays are the best becau", s
+22, KeyInput, 8221, 62, "Saturdays are the best becaus", e
+22, KeyInput, 8361, 140, "Saturdays are the best because", Space
+22, KeyInput, 9063, 702, "Saturdays are the best because ", )
+22, Delete, 9407, 344, "Saturdays are the best because )", )
+22, KeyInput, 10093, 686, "Saturdays are the best because ", I
+22, KeyInput, 10218, 125, "Saturdays are the best because I", Space
+22, KeyInput, 10998, 780, "Saturdays are the best because I ", g
+22, KeyInput, 11201, 203, "Saturdays are the best because I g", e
+22, KeyInput, 11263, 62, "Saturdays are the best because I ge", t
+22, KeyInput, 11357, 94, "Saturdays are the best because I get", Space
+22, KeyInput, 12261, 904, "Saturdays are the best because I get ", t
+22, KeyInput, 12402, 141, "Saturdays are the best because I get t", o
+22, KeyInput, 12636, 234, "Saturdays are the best because I get to", Space
+22, KeyInput, 13775, 1139, "Saturdays are the best because I get to ", s
+22, KeyInput, 13962, 187, "Saturdays are the best because I get to s", l
+22, KeyInput, 14461, 499, "Saturdays are the best because I get to sl", e
+22, KeyInput, 14601, 140, "Saturdays are the best because I get to sle", e
+22, KeyInput, 14726, 125, "Saturdays are the best because I get to slee", p
+22, KeyInput, 14945, 219, "Saturdays are the best because I get to sleep", Space
+22, KeyInput, 15896, 951, "Saturdays are the best because I get to sleep ", u
+22, KeyInput, 16005, 109, "Saturdays are the best because I get to sleep u", n
+22, Delete, 16505, 500, "Saturdays are the best because I get to sleep un", n
+22, Delete, 16676, 171, "Saturdays are the best because I get to sleep u", u
+22, KeyInput, 17487, 811, "Saturdays are the best because I get to sleep ", i
+22, KeyInput, 17597, 110, "Saturdays are the best because I get to sleep i", n
+22, KeyInput, 17924, 327, "Saturdays are the best because I get to sleep in", ;
+22, KeyInput, 17924, 0, "Saturdays are the best because I get to sleep in;", .
+22, Delete, 18486, 562, "Saturdays are the best because I get to sleep in;.", .
+22, Delete, 19547, 1061, "Saturdays are the best because I get to sleep in;", ;
+22, KeyInput, 20327, 780, "Saturdays are the best because I get to sleep in", .
+23, KeyInput, 0, 0, I, Space
+23, KeyInput, 811, 811, "I ", c
+23, KeyInput, 1045, 234, "I c", a
+23, KeyInput, 1217, 172, "I ca", n
+23, KeyInput, 1295, 78, "I can", Space
+23, KeyInput, 2121, 826, "I can ", d
+23, KeyInput, 2371, 250, "I can d", r
+23, KeyInput, 2621, 250, "I can dr", a
+23, KeyInput, 2761, 140, "I can dra", w
+23, KeyInput, 3229, 468, "I can draw", Space
+23, KeyInput, 3884, 655, "I can draw ", s
+23, KeyInput, 4009, 125, "I can draw s", t
+23, KeyInput, 4321, 312, "I can draw st", i
+23, KeyInput, 4524, 203, "I can draw sti", c
+23, KeyInput, 4758, 234, "I can draw stic", k
+23, KeyInput, 4867, 109, "I can draw stick", Space
+23, KeyInput, 5522, 655, "I can draw stick ", f
+23, KeyInput, 5819, 297, "I can draw stick f", i
+23, KeyInput, 7971, 2152, "I can draw stick fi", g
+23, KeyInput, 8455, 484, "I can draw stick fig", u
+23, KeyInput, 8611, 156, "I can draw stick figu", r
+23, KeyInput, 8736, 125, "I can draw stick figur", e
+23, KeyInput, 8939, 203, "I can draw stick figure", s
+23, KeyInput, 9594, 655, "I can draw stick figures", Space
+23, KeyInput, 9937, 343, "I can draw stick figures ", r
+23, KeyInput, 10031, 94, "I can draw stick figures r", e
+23, KeyInput, 10249, 218, "I can draw stick figures re", a
+23, KeyInput, 10561, 312, "I can draw stick figures rea", l
+23, KeyInput, 10733, 172, "I can draw stick figures real", l
+23, KeyInput, 11513, 780, "I can draw stick figures reall", y
+23, KeyInput, 11653, 140, "I can draw stick figures really", Space
+23, KeyInput, 12417, 764, "I can draw stick figures really ", w
+23, KeyInput, 12651, 234, "I can draw stick figures really w", e
+23, KeyInput, 12948, 297, "I can draw stick figures really we", l
+23, KeyInput, 13088, 140, "I can draw stick figures really wel", l
+23, KeyInput, 13931, 843, "I can draw stick figures really well", ,
+23, KeyInput, 14071, 140, "I can draw stick figures really well,", Space
+23, KeyInput, 14882, 811, "I can draw stick figures really well, ", t
+23, KeyInput, 14991, 109, "I can draw stick figures really well, t", h
+23, KeyInput, 15179, 188, "I can draw stick figures really well, th", a
+23, KeyInput, 15459, 280, "I can draw stick figures really well, tha", t
+23, KeyInput, 16333, 874, "I can draw stick figures really well, that", s
+23, KeyInput, 16567, 234, "I can draw stick figures really well, thats", Space
+23, KeyInput, 17207, 640, "I can draw stick figures really well, thats ", a
+23, KeyInput, 17628, 421, "I can draw stick figures really well, thats a", b
+23, KeyInput, 17815, 187, "I can draw stick figures really well, thats ab", o
+23, KeyInput, 17909, 94, "I can draw stick figures really well, thats abo", u
+23, KeyInput, 18330, 421, "I can draw stick figures really well, thats abou", t
+23, KeyInput, 18486, 156, "I can draw stick figures really well, thats about", Space
+23, KeyInput, 19484, 998, "I can draw stick figures really well, thats about ", i
+23, KeyInput, 19656, 172, "I can draw stick figures really well, thats about i", t
+23, KeyInput, 20233, 577, "I can draw stick figures really well, thats about it", ,
+23, KeyInput, 20264, 31, "I can draw stick figures really well, thats about it,", .
+23, Delete, 20748, 484, "I can draw stick figures really well, thats about it,.", .
+23, Delete, 21684, 936, "I can draw stick figures really well, thats about it,", ,
+23, KeyInput, 22417, 733, "I can draw stick figures really well, thats about it", .
+24, KeyInput, 0, 0, D, i
+24, KeyInput, 78, 78, "Di", d
+24, KeyInput, 359, 281, "Did", Space
+24, KeyInput, 889, 530, "Did ", y
+24, KeyInput, 1014, 125, "Did y", o
+24, KeyInput, 1108, 94, "Did yo", u
+24, KeyInput, 1186, 78, "Did you", Space
+24, KeyInput, 1856, 670, "Did you ", k
+24, KeyInput, 1934, 78, "Did you k", n
+24, KeyInput, 2153, 219, "Did you kn", o
+24, KeyInput, 2340, 187, "Did you kno", w
+24, KeyInput, 2917, 577, "Did you know", Space
+24, KeyInput, 3323, 406, "Did you know ", t
+24, KeyInput, 3416, 93, "Did you know t", h
+24, KeyInput, 3557, 141, "Did you know th", a
+24, KeyInput, 3697, 140, "Did you know tha", t
+24, KeyInput, 3869, 172, "Did you know that", Space
+24, KeyInput, 3978, 109, "Did you know that ", a
+24, KeyInput, 4150, 172, "Did you know that a", Space
+24, KeyInput, 5023, 873, "Did you know that a ", c
+24, KeyInput, 5226, 203, "Did you know that a c", h
+24, KeyInput, 5600, 374, "Did you know that a ch", e
+24, KeyInput, 5772, 172, "Did you know that a che", e
+24, KeyInput, 6162, 390, "Did you know that a chee", t
+24, KeyInput, 6614, 452, "Did you know that a cheet", a
+24, KeyInput, 7394, 780, "Did you know that a cheeta", h
+24, KeyInput, 7504, 110, "Did you know that a cheetah", s
+24, KeyInput, 7628, 124, "Did you know that a cheetahs", Space
+24, KeyInput, 11591, 3963, "Did you know that a cheetahs ", c
+24, KeyInput, 11762, 171, "Did you know that a cheetahs c", a
+24, KeyInput, 11887, 125, "Did you know that a cheetahs ca", n
+24, KeyInput, 11996, 109, "Did you know that a cheetahs can", Space
+24, KeyInput, 12636, 640, "Did you know that a cheetahs can ", r
+24, KeyInput, 12808, 172, "Did you know that a cheetahs can r", u
+24, KeyInput, 12886, 78, "Did you know that a cheetahs can ru", n
+24, KeyInput, 13010, 124, "Did you know that a cheetahs can run", Space
+24, KeyInput, 13385, 375, "Did you know that a cheetahs can run ", a
+24, KeyInput, 13931, 546, "Did you know that a cheetahs can run a", t
+24, KeyInput, 14056, 125, "Did you know that a cheetahs can run at", Space
+24, KeyInput, 16520, 2464, "Did you know that a cheetahs can run at ", 7
+24, KeyInput, 16645, 125, "Did you know that a cheetahs can run at 7", 5
+24, KeyInput, 16801, 156, "Did you know that a cheetahs can run at 75", Space
+24, KeyInput, 17519, 718, "Did you know that a cheetahs can run at 75 ", m
+24, KeyInput, 18268, 749, "Did you know that a cheetahs can run at 75 m", p
+24, KeyInput, 18408, 140, "Did you know that a cheetahs can run at 75 mp", h
+24, KeyInput, 19157, 749, "Did you know that a cheetahs can run at 75 mph", ?
+25, KeyInput, 0, 0, N, o
+25, KeyInput, 125, 125, "No", Space
+25, KeyInput, 874, 749, "No ", B
+25, KeyInput, 1373, 499, "No B", o
+25, KeyInput, 1498, 125, "No Bo", b
+25, KeyInput, 2309, 811, "No Bob", m
+25, KeyInput, 2434, 125, "No Bobm", Space
+25, KeyInput, 3089, 655, "No Bobm ", I
+25, KeyInput, 3323, 234, "No Bobm I", Space
+25, KeyInput, 3728, 405, "No Bobm I ", d
+25, KeyInput, 3869, 141, "No Bobm I d", i
+25, KeyInput, 3947, 78, "No Bobm I di", d
+25, KeyInput, 4072, 125, "No Bobm I did", n
+25, KeyInput, 5304, 1232, "No Bobm I didn", '
+25, KeyInput, 5366, 62, "No Bobm I didn'", t
+25, KeyInput, 5507, 141, "No Bobm I didn't", Space
+25, KeyInput, 5881, 374, "No Bobm I didn't ", k
+25, KeyInput, 6022, 141, "No Bobm I didn't k", n
+25, KeyInput, 6271, 249, "No Bobm I didn't kn", o
+25, KeyInput, 6443, 172, "No Bobm I didn't kno", w
+25, KeyInput, 6973, 530, "No Bobm I didn't know", Space
+25, KeyInput, 7379, 406, "No Bobm I didn't know ", t
+25, KeyInput, 7504, 125, "No Bobm I didn't know t", h
+25, KeyInput, 7753, 249, "No Bobm I didn't know th", a
+25, Delete, 8533, 780, "No Bobm I didn't know tha", a
+25, Delete, 9032, 499, "No Bobm I didn't know th", h
+25, Delete, 9064, 32, "No Bobm I didn't know t", t
+25, Delete, 9095, 31, "No Bobm I didn't know ", Space
+25, Delete, 9110, 15, "No Bobm I didn't know", w
+25, Delete, 9157, 47, "No Bobm I didn't kno", o
+25, Delete, 9188, 31, "No Bobm I didn't kn", n
+25, Delete, 9220, 32, "No Bobm I didn't k", k
+25, Delete, 9251, 31, "No Bobm I didn't ", Space
+25, Delete, 9282, 31, "No Bobm I didn't", t
+25, Delete, 9313, 31, "No Bobm I didn'", '
+25, Delete, 9329, 16, "No Bobm I didn", n
+25, Delete, 9360, 31, "No Bobm I did", d
+25, Delete, 9391, 31, "No Bobm I di", i
+25, Delete, 9422, 31, "No Bobm I d", d
+25, Delete, 9454, 32, "No Bobm I ", Space
+25, Delete, 9703, 249, "No Bobm I", I
+25, Delete, 9922, 219, "No Bobm ", Space
+25, Delete, 10171, 249, "No Bobm", m
+25, KeyInput, 11185, 1014, "No Bob", ,
+25, KeyInput, 11388, 203, "No Bob,", Space
+25, KeyInput, 12808, 1420, "No Bob, ", I
+25, KeyInput, 12964, 156, "No Bob, I", Space
+25, KeyInput, 13619, 655, "No Bob, I ", d
+25, KeyInput, 13744, 125, "No Bob, I d", i
+25, KeyInput, 13853, 109, "No Bob, I di", d
+25, KeyInput, 14087, 234, "No Bob, I did", n
+25, KeyInput, 15288, 1201, "No Bob, I didn", '
+25, KeyInput, 15351, 63, "No Bob, I didn'", t
+25, KeyInput, 15475, 124, "No Bob, I didn't", Space
+25, KeyInput, 16021, 546, "No Bob, I didn't ", k
+25, KeyInput, 16115, 94, "No Bob, I didn't k", n
+25, KeyInput, 16583, 468, "No Bob, I didn't kn", o
+25, KeyInput, 16708, 125, "No Bob, I didn't kno", w
+25, KeyInput, 16817, 109, "No Bob, I didn't know", Space
+25, KeyInput, 17332, 515, "No Bob, I didn't know ", t
+25, KeyInput, 17394, 62, "No Bob, I didn't know t", h
+25, KeyInput, 17550, 156, "No Bob, I didn't know th", a
+25, KeyInput, 17675, 125, "No Bob, I didn't know tha", t
+25, KeyInput, 17847, 172, "No Bob, I didn't know that", Space
+25, Delete, 18330, 483, "No Bob, I didn't know that ", Space
+25, KeyInput, 18595, 265, "No Bob, I didn't know that", ,
+25, KeyInput, 18751, 156, "No Bob, I didn't know that,", Space
+25, KeyInput, 19141, 390, "No Bob, I didn't know that, ", t
+25, KeyInput, 19266, 125, "No Bob, I didn't know that, t", h
+25, KeyInput, 19422, 156, "No Bob, I didn't know that, th", a
+25, KeyInput, 19516, 94, "No Bob, I didn't know that, tha", n
+25, KeyInput, 19750, 234, "No Bob, I didn't know that, than", k
+25, KeyInput, 19797, 47, "No Bob, I didn't know that, thank", l
+25, KeyInput, 20296, 499, "No Bob, I didn't know that, thankl", =
+25, Delete, 20296, 0, "No Bob, I didn't know that, thankl=", =
+25, Delete, 20592, 296, "No Bob, I didn't know that, thankl", l
+25, KeyInput, 21232, 640, "No Bob, I didn't know that, thank", s
+25, KeyInput, 21388, 156, "No Bob, I didn't know that, thanks", Space
+25, KeyInput, 21981, 593, "No Bob, I didn't know that, thanks ", f
+25, KeyInput, 22121, 140, "No Bob, I didn't know that, thanks f", o
+25, KeyInput, 22246, 125, "No Bob, I didn't know that, thanks fo", r
+25, KeyInput, 22355, 109, "No Bob, I didn't know that, thanks for", Space
+25, KeyInput, 22979, 624, "No Bob, I didn't know that, thanks for ", t
+25, KeyInput, 23229, 250, "No Bob, I didn't know that, thanks for t", e
+25, KeyInput, 23416, 187, "No Bob, I didn't know that, thanks for te", l
+25, KeyInput, 23572, 156, "No Bob, I didn't know that, thanks for tel", l
+25, KeyInput, 24102, 530, "No Bob, I didn't know that, thanks for tell", i
+25, KeyInput, 24258, 156, "No Bob, I didn't know that, thanks for telli", n
+25, KeyInput, 24289, 31, "No Bob, I didn't know that, thanks for tellin", g
+25, KeyInput, 25023, 734, "No Bob, I didn't know that, thanks for telling", Space
+25, KeyInput, 25335, 312, "No Bob, I didn't know that, thanks for telling ", m
+25, KeyInput, 25444, 109, "No Bob, I didn't know that, thanks for telling m", e
+25, KeyInput, 26115, 671, "No Bob, I didn't know that, thanks for telling me", .
+26, KeyInput, 0, 0, T, h
+26, KeyInput, 94, 94, "Th", e
+26, KeyInput, 203, 109, "The", Space
+26, KeyInput, 687, 484, "The ", t
+26, KeyInput, 843, 156, "The t", e
+26, KeyInput, 1186, 343, "The te", x
+26, KeyInput, 1264, 78, "The tex", t
+26, KeyInput, 1435, 171, "The text", Space
+26, KeyInput, 1716, 281, "The text ", i
+26, KeyInput, 1841, 125, "The text i", n
+26, KeyInput, 1966, 125, "The text in", Space
+26, Delete, 2418, 452, "The text in ", Space
+26, Delete, 2621, 203, "The text in", n
+26, Delete, 2777, 156, "The text i", i
+26, KeyInput, 3214, 437, "The text ", o
+26, KeyInput, 3401, 187, "The text o", n
+26, KeyInput, 3510, 109, "The text on", Space
+26, KeyInput, 3760, 250, "The text on ", t
+26, KeyInput, 3853, 93, "The text on t", h
+26, KeyInput, 3947, 94, "The text on th", e
+26, KeyInput, 4041, 94, "The text on the", Space
+26, KeyInput, 5803, 1762, "The text on the ", s
+26, KeyInput, 6069, 266, "The text on the s", c
+26, KeyInput, 6225, 156, "The text on the sc", r
+26, KeyInput, 6537, 312, "The text on the scr", e
+26, KeyInput, 6708, 171, "The text on the scre", e
+26, KeyInput, 6849, 141, "The text on the scree", n
+26, KeyInput, 7005, 156, "The text on the screen", Space
+26, KeyInput, 7582, 577, "The text on the screen ", i
+26, KeyInput, 7691, 109, "The text on the screen i", s
+26, KeyInput, 7800, 109, "The text on the screen is", Space
+26, KeyInput, 8752, 952, "The text on the screen is ", t
+26, KeyInput, 8923, 171, "The text on the screen is t", o
+26, KeyInput, 9064, 141, "The text on the screen is to", Space
+26, KeyInput, 9828, 764, "The text on the screen is to ", s
+26, KeyInput, 10000, 172, "The text on the screen is to s", m
+26, KeyInput, 10156, 156, "The text on the screen is to sm", a
+26, KeyInput, 10234, 78, "The text on the screen is to sma", l
+26, KeyInput, 10405, 171, "The text on the screen is to smal", l
+26, KeyInput, 10546, 141, "The text on the screen is to small", Space
+26, KeyInput, 10998, 452, "The text on the screen is to small ", t
+26, KeyInput, 11092, 94, "The text on the screen is to small t", o
+26, KeyInput, 11248, 156, "The text on the screen is to small to", Space
+26, KeyInput, 11513, 265, "The text on the screen is to small to ", r
+26, KeyInput, 11607, 94, "The text on the screen is to small to r", e
+26, KeyInput, 11856, 249, "The text on the screen is to small to re", a
+26, KeyInput, 11919, 63, "The text on the screen is to small to rea", d
+26, KeyInput, 12527, 608, "The text on the screen is to small to read", .
+27, KeyInput, 0, 0, A, Space
+27, KeyInput, 656, 656, "A ", l
+27, KeyInput, 921, 265, "A l", o
+27, KeyInput, 1014, 93, "A lo", t
+27, KeyInput, 1124, 110, "A lot", Space
+27, KeyInput, 1404, 280, "A lot ", o
+27, KeyInput, 1529, 125, "A lot o", f
+27, KeyInput, 1654, 125, "A lot of", Space
+27, KeyInput, 2216, 562, "A lot of ", t
+27, KeyInput, 2372, 156, "A lot of t", a
+27, KeyInput, 2465, 93, "A lot of ta", l
+27, KeyInput, 2637, 172, "A lot of tal", l
+27, KeyInput, 3261, 624, "A lot of tall", Space
+27, KeyInput, 3698, 437, "A lot of tall ", b
+27, KeyInput, 3900, 202, "A lot of tall b", u
+27, KeyInput, 4119, 219, "A lot of tall bu", i
+27, KeyInput, 4337, 218, "A lot of tall bui", l
+27, KeyInput, 4493, 156, "A lot of tall buil", d
+27, KeyInput, 4758, 265, "A lot of tall build", i
+27, KeyInput, 4899, 141, "A lot of tall buildi", n
+27, KeyInput, 5398, 499, "A lot of tall buildin", g
+27, KeyInput, 5554, 156, "A lot of tall building", Space
+27, Delete, 5928, 374, "A lot of tall building ", Space
+27, KeyInput, 5991, 63, "A lot of tall building", s
+27, KeyInput, 6084, 93, "A lot of tall buildings", Space
+27, KeyInput, 7083, 999, "A lot of tall buildings ", d
+27, KeyInput, 7208, 125, "A lot of tall buildings d", o
+27, KeyInput, 7364, 156, "A lot of tall buildings do", Space
+27, KeyInput, 7878, 514, "A lot of tall buildings do ", n
+27, KeyInput, 9048, 1170, "A lot of tall buildings do n", o
+27, KeyInput, 9158, 110, "A lot of tall buildings do no", t
+27, KeyInput, 9267, 109, "A lot of tall buildings do not", Space
+27, KeyInput, 9860, 593, "A lot of tall buildings do not ", h
+27, KeyInput, 10000, 140, "A lot of tall buildings do not h", a
+27, KeyInput, 10172, 172, "A lot of tall buildings do not ha", v
+27, KeyInput, 10281, 109, "A lot of tall buildings do not hav", e
+27, KeyInput, 10437, 156, "A lot of tall buildings do not have", Space
+27, KeyInput, 10733, 296, "A lot of tall buildings do not have ", a
+27, KeyInput, 10842, 109, "A lot of tall buildings do not have a", Space
+27, KeyInput, 11638, 796, "A lot of tall buildings do not have a ", 1
+27, KeyInput, 11716, 78, "A lot of tall buildings do not have a 1", 3
+27, KeyInput, 12184, 468, "A lot of tall buildings do not have a 13", t
+27, KeyInput, 12262, 78, "A lot of tall buildings do not have a 13t", h
+27, KeyInput, 12418, 156, "A lot of tall buildings do not have a 13th", Space
+27, KeyInput, 13042, 624, "A lot of tall buildings do not have a 13th ", f
+27, KeyInput, 13182, 140, "A lot of tall buildings do not have a 13th f", l
+27, KeyInput, 13370, 188, "A lot of tall buildings do not have a 13th fl", o
+27, KeyInput, 13541, 171, "A lot of tall buildings do not have a 13th flo", o
+27, KeyInput, 13791, 250, "A lot of tall buildings do not have a 13th floo", r
+27, KeyInput, 14384, 593, "A lot of tall buildings do not have a 13th floor", .
+28, KeyInput, 0, 0, T, h
+28, KeyInput, 109, 109, "Th", e
+28, KeyInput, 172, 63, "The", r
+28, KeyInput, 312, 140, "Ther", e
+28, KeyInput, 499, 187, "There", Space
+28, KeyInput, 702, 203, "There ", a
+28, KeyInput, 796, 94, "There a", r
+28, KeyInput, 921, 125, "There ar", e
+28, KeyInput, 1123, 202, "There are", Space
+28, KeyInput, 2262, 1139, "There are ", n
+28, KeyInput, 2371, 109, "There are n", o
+28, KeyInput, 2512, 141, "There are no", Space
+28, KeyInput, 2652, 140, "There are no ", m
+28, KeyInput, 3261, 609, "There are no m", o
+28, KeyInput, 3385, 124, "There are no mo", r
+28, KeyInput, 3448, 63, "There are no mor", e
+28, KeyInput, 3588, 140, "There are no more", Space
+28, KeyInput, 4789, 1201, "There are no more ", p
+28, KeyInput, 5070, 281, "There are no more p", i
+28, KeyInput, 5179, 109, "There are no more pi", n
+28, KeyInput, 5460, 281, "There are no more pin", a
+28, KeyInput, 5881, 421, "There are no more pina", p
+28, KeyInput, 6037, 156, "There are no more pinap", p
+28, KeyInput, 6193, 156, "There are no more pinapp", l
+28, KeyInput, 6365, 172, "There are no more pinappl", e
+28, KeyInput, 6568, 203, "There are no more pinapple", s
+28, KeyInput, 7051, 483, "There are no more pinapples", Space
+28, KeyInput, 7348, 297, "There are no more pinapples ", a
+28, KeyInput, 7551, 203, "There are no more pinapples a", t
+28, KeyInput, 7691, 140, "There are no more pinapples at", Space
+28, KeyInput, 8050, 359, "There are no more pinapples at ", t
+28, KeyInput, 8221, 171, "There are no more pinapples at t", h
+28, KeyInput, 8877, 656, "There are no more pinapples at th", i
+28, KeyInput, 8970, 93, "There are no more pinapples at thi", s
+28, KeyInput, 9111, 141, "There are no more pinapples at this", Space
+28, KeyInput, 9469, 358, "There are no more pinapples at this ", s
+28, KeyInput, 9672, 203, "There are no more pinapples at this s", t
+28, KeyInput, 9859, 187, "There are no more pinapples at this st", a
+28, KeyInput, 9969, 110, "There are no more pinapples at this sta", n
+28, KeyInput, 10920, 951, "There are no more pinapples at this stan", d
+28, KeyInput, 15179, 4259, "There are no more pinapples at this stand", .
+29, KeyInput, 0, 0, T, h
+29, KeyInput, 94, 94, "Th", e
+29, KeyInput, 156, 62, "The", r
+29, KeyInput, 297, 141, "Ther", e
+29, Delete, 968, 671, "There", e
+29, KeyInput, 1155, 187, "Ther", s
+29, Delete, 1607, 452, "Thers", s
+29, Delete, 1826, 219, "Ther", r
+29, KeyInput, 1950, 124, "The", s
+29, KeyInput, 2044, 94, "Thes", e
+29, KeyInput, 2340, 296, "These", Space
+29, KeyInput, 2543, 203, "These ", a
+29, KeyInput, 2668, 125, "These a", r
+29, KeyInput, 2777, 109, "These ar", e
+29, KeyInput, 3105, 328, "These are", Space
+29, KeyInput, 3495, 390, "These are ", n
+29, KeyInput, 3963, 468, "These are n", o
+29, KeyInput, 4103, 140, "These are no", t
+29, KeyInput, 4212, 109, "These are not", Space
+29, KeyInput, 4462, 250, "These are not ", t
+29, KeyInput, 5226, 764, "These are not t", h
+29, KeyInput, 5585, 359, "These are not th", r
+29, KeyInput, 5679, 94, "These are not thr", e
+29, KeyInput, 5882, 203, "These are not thre", Space
+29, Delete, 6256, 374, "These are not thre ", Space
+29, Delete, 6443, 187, "These are not thre", e
+29, Delete, 6615, 172, "These are not thr", r
+29, KeyInput, 6818, 203, "These are not th", e
+29, KeyInput, 7223, 405, "These are not the", Space
+29, KeyInput, 7832, 609, "These are not the ", d
+29, KeyInput, 8019, 187, "These are not the d", r
+29, KeyInput, 8190, 171, "These are not the dr", o
+29, KeyInput, 8424, 234, "These are not the dro", i
+29, KeyInput, 8612, 188, "These are not the droi", d
+29, KeyInput, 8892, 280, "These are not the droid", s
+29, KeyInput, 9189, 297, "These are not the droids", Space
+29, KeyInput, 9782, 593, "These are not the droids ", y
+29, KeyInput, 9906, 124, "These are not the droids y", o
+29, KeyInput, 10000, 94, "These are not the droids yo", u
+29, KeyInput, 10109, 109, "These are not the droids you", Space
+29, KeyInput, 10343, 234, "These are not the droids you ", a
+29, KeyInput, 10421, 78, "These are not the droids you a", r
+29, KeyInput, 10577, 156, "These are not the droids you ar", e
+29, KeyInput, 10702, 125, "These are not the droids you are", Space
+29, KeyInput, 10920, 218, "These are not the droids you are ", l
+29, KeyInput, 11186, 266, "These are not the droids you are l", o
+29, KeyInput, 11357, 171, "These are not the droids you are lo", o
+29, KeyInput, 11529, 172, "These are not the droids you are loo", k
+29, KeyInput, 12262, 733, "These are not the droids you are look", i
+29, KeyInput, 12340, 78, "These are not the droids you are looki", n
+29, KeyInput, 12418, 78, "These are not the droids you are lookin", g
+29, KeyInput, 12558, 140, "These are not the droids you are looking", Space
+29, KeyInput, 13089, 531, "These are not the droids you are looking ", f
+29, KeyInput, 13292, 203, "These are not the droids you are looking f", o
+29, KeyInput, 13416, 124, "These are not the droids you are looking fo", r
+29, KeyInput, 14228, 812, "These are not the droids you are looking for", .
+30, KeyInput, 0, 0, D, i
+30, KeyInput, 63, 63, "Di", d
+30, KeyInput, 359, 296, "Did", Space
+30, KeyInput, 983, 624, "Did ", y
+30, KeyInput, 1092, 109, "Did y", o
+30, KeyInput, 1201, 109, "Did yo", u
+30, KeyInput, 1279, 78, "Did you", Space
+30, KeyInput, 1701, 422, "Did you ", h
+30, KeyInput, 1810, 109, "Did you h", a
+30, KeyInput, 1966, 156, "Did you ha", v
+30, KeyInput, 2091, 125, "Did you hav", e
+30, KeyInput, 2215, 124, "Did you have", Space
+30, KeyInput, 2730, 515, "Did you have ", f
+30, KeyInput, 2902, 172, "Did you have f", u
+30, KeyInput, 3011, 109, "Did you have fu", n
+30, KeyInput, 3151, 140, "Did you have fun", Space
+30, KeyInput, 3401, 250, "Did you have fun ", a
+30, KeyInput, 3682, 281, "Did you have fun a", t
+30, KeyInput, 3791, 109, "Did you have fun at", Space
+30, KeyInput, 4041, 250, "Did you have fun at ", t
+30, KeyInput, 4181, 140, "Did you have fun at t", h
+30, KeyInput, 4290, 109, "Did you have fun at th", e
+30, KeyInput, 4384, 94, "Did you have fun at the", r
+30, KeyInput, 4493, 109, "Did you have fun at ther", Space
+30, Delete, 4977, 484, "Did you have fun at ther ", Space
+30, Delete, 5148, 171, "Did you have fun at ther", r
+30, KeyInput, 5476, 328, "Did you have fun at the", Space
+30, KeyInput, 5959, 483, "Did you have fun at the ", o
+30, Delete, 6365, 406, "Did you have fun at the o", o
+30, KeyInput, 6599, 234, "Did you have fun at the ", p
+30, KeyInput, 6817, 218, "Did you have fun at the p", a
+30, KeyInput, 6927, 110, "Did you have fun at the pa", r
+30, KeyInput, 7379, 452, "Did you have fun at the par", k
+30, KeyInput, 7519, 140, "Did you have fun at the park", Space
+30, KeyInput, 8346, 827, "Did you have fun at the park ", t
+30, KeyInput, 8471, 125, "Did you have fun at the park t", o
+30, KeyInput, 8736, 265, "Did you have fun at the park to", d
+30, KeyInput, 8955, 219, "Did you have fun at the park tod", a
+30, KeyInput, 9235, 280, "Did you have fun at the park toda", y
+30, KeyInput, 9438, 203, "Did you have fun at the park today", Space
+30, KeyInput, 10093, 655, "Did you have fun at the park today ", J
+30, KeyInput, 10405, 312, "Did you have fun at the park today J", i
+30, KeyInput, 10733, 328, "Did you have fun at the park today Ji", l
+30, KeyInput, 10873, 140, "Did you have fun at the park today Jil", l
+30, KeyInput, 11653, 780, "Did you have fun at the park today Jill", ?
+31, KeyInput, 0, 0, T, h
+31, KeyInput, 109, 109, "Th", e
+31, KeyInput, 171, 62, "The", r
+31, KeyInput, 280, 109, "Ther", Space
+31, Delete, 904, 624, "Ther ", Space
+31, Delete, 1263, 359, "Ther", r
+31, KeyInput, 1388, 125, "The", r
+31, Delete, 1856, 468, "Ther", r
+31, KeyInput, 1981, 125, "The", e
+31, KeyInput, 2371, 390, "Thee", Space
+31, Delete, 2823, 452, "Thee ", Space
+31, Delete, 3026, 203, "Thee", e
+31, KeyInput, 3135, 109, "The", Space
+31, KeyInput, 3790, 655, "The ", c
+31, KeyInput, 3900, 110, "The c", h
+31, KeyInput, 4040, 140, "The ch", e
+31, KeyInput, 4196, 156, "The che", e
+31, KeyInput, 4446, 250, "The chee", s
+31, KeyInput, 4882, 436, "The chees", e
+31, KeyInput, 5132, 250, "The cheese", Space
+31, KeyInput, 5444, 312, "The cheese ", w
+31, KeyInput, 5834, 390, "The cheese w", a
+31, KeyInput, 5896, 62, "The cheese wa", s
+31, KeyInput, 6099, 203, "The cheese was", Space
+31, KeyInput, 6661, 562, "The cheese was ", o
+31, KeyInput, 7020, 359, "The cheese was o", l
+31, KeyInput, 7160, 140, "The cheese was ol", d
+31, KeyInput, 7363, 203, "The cheese was old", Space
+31, KeyInput, 7628, 265, "The cheese was old ", a
+31, KeyInput, 7846, 218, "The cheese was old a", n
+31, KeyInput, 7987, 141, "The cheese was old an", d
+31, KeyInput, 8096, 109, "The cheese was old and", Space
+31, KeyInput, 8642, 546, "The cheese was old and ", m
+31, KeyInput, 8829, 187, "The cheese was old and m", o
+31, KeyInput, 9079, 250, "The cheese was old and mo", l
+31, KeyInput, 9266, 187, "The cheese was old and mol", d
+31, KeyInput, 9750, 484, "The cheese was old and mold", y
+31, KeyInput, 10639, 889, "The cheese was old and moldy", .
+32, KeyInput, 0, 0, T, h
+32, KeyInput, 109, 109, "Th", e
+32, KeyInput, 171, 62, "The", r
+32, KeyInput, 280, 109, "Ther", Space
+32, Delete, 904, 624, "Ther ", Space
+32, Delete, 1263, 359, "Ther", r
+32, KeyInput, 1388, 125, "The", r
+32, Delete, 1856, 468, "Ther", r
+32, KeyInput, 1981, 125, "The", e
+32, KeyInput, 2371, 390, "Thee", Space
+32, Delete, 2823, 452, "Thee ", Space
+32, Delete, 3026, 203, "Thee", e
+32, KeyInput, 3135, 109, "The", Space
+32, KeyInput, 3790, 655, "The ", c
+32, KeyInput, 3900, 110, "The c", h
+32, KeyInput, 4040, 140, "The ch", e
+32, KeyInput, 4196, 156, "The che", e
+32, KeyInput, 4446, 250, "The chee", s
+32, KeyInput, 4882, 436, "The chees", e
+32, KeyInput, 5132, 250, "The cheese", Space
+32, KeyInput, 5444, 312, "The cheese ", w
+32, KeyInput, 5834, 390, "The cheese w", a
+32, KeyInput, 5896, 62, "The cheese wa", s
+32, KeyInput, 6099, 203, "The cheese was", Space
+32, KeyInput, 6661, 562, "The cheese was ", o
+32, KeyInput, 7020, 359, "The cheese was o", l
+32, KeyInput, 7160, 140, "The cheese was ol", d
+32, KeyInput, 7363, 203, "The cheese was old", Space
+32, KeyInput, 7628, 265, "The cheese was old ", a
+32, KeyInput, 7846, 218, "The cheese was old a", n
+32, KeyInput, 7987, 141, "The cheese was old an", d
+32, KeyInput, 8096, 109, "The cheese was old and", Space
+32, KeyInput, 8642, 546, "The cheese was old and ", m
+32, KeyInput, 8829, 187, "The cheese was old and m", o
+32, KeyInput, 9079, 250, "The cheese was old and mo", l
+32, KeyInput, 9266, 187, "The cheese was old and mol", d
+32, KeyInput, 9750, 484, "The cheese was old and mold", y
+32, KeyInput, 10639, 889, "The cheese was old and moldy", .
