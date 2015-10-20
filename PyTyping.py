@@ -5,6 +5,7 @@ import os
 import platform
 import serial
 from serial.serialutil import SerialException
+from difflib import SequenceMatcher
 
 '''
 Input File:
@@ -97,17 +98,17 @@ class GUI:
         self.create_buffer_frame(self.root)
         
         #Opens the serial port
-        serial = Sendpack(Strings.port)
+        serial = Sendpack(port)
 
         #Checks if port is open, throws error if not
         if not serial.is_open():
-            messagebox.showerror("Port","Could not connect to " + Strings.port)
+            messagebox.showerror("Port","Could not connect to " + port)
             self.root.destroy()
             return
 
         #starts the key logger
         logger = Record(serial)
-        Container(self.root, logger, Strings.strings)
+        Container(self.root, logger, strings)
          
         
         #Creates a buffer below the text
@@ -344,7 +345,20 @@ class Record:
         #Clears list and typed string
         self.current_string=""
         self.list=[]
-        
+
+
+    #function to check for errors in a string
+    def string_err(self,n,m):
+        if len(n) >= len(m):
+            g = n
+        else:
+            g = m
+            
+        s = SequenceMatcher(None,n,m)
+        T = len(n) + len(m)
+        M = s.ratio() * T / 2
+        return int(len(g) - M)
+
     def flush(self):
 
         self.string_num += 1
@@ -353,7 +367,7 @@ class Record:
             return
         
         #Keeps track of the total error numbers
-        self.error_num += string_err(self.sample, self.current_string)
+        self.error_num += self.string_err(self.sample, self.current_string)
 
         #Adds the list to a itterator which allows us to easly iterate through the list
         itterator = iter(self.list)
@@ -393,21 +407,6 @@ class Record:
         self.wpm.append(1/wpm)
 
         
-    #function to check for errors in a string
-    #uses the longest common subsequence algorithm
-    #first string should be the correct one
-    def string_err(n,m):
-        a = [[0]*(len(m)+1)]*(len(n)+1)
-    
-        for i in range(1, len(n)):
-            for j in range(1, len(m)):
-                if n[i] == m[j]:
-                    a[i][j] = a[i][j] + 1
-                else:
-                    a[i][j] = max(a[i][j-1], a[i-1][j])
-
-        return len(n)-a[len(n)-1][len(m)-1]-1   
-
     #Function to record time and send serial pulse at key press
     def input(self, char):
 
